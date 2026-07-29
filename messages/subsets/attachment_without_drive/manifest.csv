@@ -1,0 +1,21 @@
+eml,sender,subject,category,attachment
+001_utility_bill.eml,Городской расчётный центр,Единый платёжный документ за июль,utility_bill,ЕПД_июль_2026.pdf
+002_internet_invoice.eml,Домашняя сеть,Счёт за домашний интернет,invoice,Счёт_интернет_август_2026.pdf
+003_fitness_receipt.eml,Платёжный сервис,Квитанция об оплате абонемента,receipt,Квитанция_фитнес_763227.pdf
+004_clinic_invoice.eml,Медицинский центр «Баланс»,Счёт на медицинские услуги,invoice,Счёт_клиника_20391.pdf
+005_rent_addendum.eml,Сервис аренды «Ключ»,Дополнительное соглашение к договору аренды,contract,Допсоглашение_аренда_08-2026.pdf
+006_course_contract.eml,Образовательная платформа «Вектор»,Договор на обучение по программе Machine Learning,contract,Договор_ML_обучение_60428.pdf
+835_train_ticket_moscow_kazan.eml,Железнодорожный сервис «Маршрут»,Билет Москва - Казань оформлен,train_ticket,Билет_Москва-Казань_8146.pdf
+008_train_ticket_kazan_moscow.eml,Железнодорожный сервис «Маршрут»,Билет Казань - Москва оформлен,train_ticket,Билет_Казань-Москва_9204.pdf
+009_theater_ticket.eml,Театральная касса,Электронный билет на спектакль,event_ticket,Театр_Вишнёвый_сад_2208.pdf
+010_cinema_ticket.eml,Киносеть «Панорама»,Билеты в кино оплачены,event_ticket,Кино_Премьера_2655.pdf
+011_concert_ticket.eml,Городская билетная система,Билет на концерт готов,event_ticket,Концерт_Северный_звук_8358.pdf
+012_hotel_voucher.eml,Сервис бронирований StayRoute,Ваучер на проживание готов,hotel_voucher,Ваучер_отель_Сеул_761798.pdf
+013_baggage_policy.eml,Travel Protect,Полис страхования багажа,insurance_policy,Полис_багаж_BG-771245.pdf
+014_air_ticket.eml,Авиамаршрут,Маршрутная квитанция Санкт-Петербург - Шанхай,air_ticket,Маршрутная_квитанция_Шанхай_735064.pdf
+015_museum_ticket.eml,Городской музей,Билет на выставку «Искусство и технологии»,event_ticket,Музей_Искусство_и_технологии_0509.pdf
+generated_016_document.eml,Сервис «Мастер»,Акт выполненных работ,service,016_service.pdf
+generated_017_document.eml,Оператор «Связь»,Счёт за мобильную связь,mobile,017_mobile.pdf
+generated_018_document.eml,Платформа «Вектор»,Справка о прохождении курса,certificate,018_certificate.pdf
+generated_019_document.eml,RoadGo,Подтверждение брони автомобиля,car,019_car.pdf
+generated_020_document.eml,Магазин «Линия»,Электронный чек,receipt,020_receipt.pdf

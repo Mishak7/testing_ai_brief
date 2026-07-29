@@ -1,0 +1,108 @@
+2026-07-28T12:01:31.794981+00:00	001-order.eml	d79f973e30c2	<7086ddaf9af743d284edc0bf6dc71701@mail.example>	OK	
+2026-07-28T12:01:32.237874+00:00	002-notification.eml	01257c24732d	<8e567a48b3dc48d4b1cb7a06ceb1793f@mail.example>	OK	
+2026-07-28T12:01:32.492597+00:00	003-support.eml	a8f597b1302e	<d08c1be154e14e479b043e2c658a1687@mail.example>	OK	
+2026-07-28T12:11:26.364402+00:00	001-order.eml	13eca532e5d6	<7086ddaf9af743d284edc0bf6dc71701@mail.example>	OK	
+2026-07-28T12:11:26.461640+00:00	002-notification.eml	cb6351e342ba	<8e567a48b3dc48d4b1cb7a06ceb1793f@mail.example>	OK	
+2026-07-28T12:11:26.559596+00:00	003-support.eml	478b8d854962	<d08c1be154e14e479b043e2c658a1687@mail.example>	OK	
+2026-07-28T12:34:54.815199+00:00	002-notification.eml	fe1d186d29e1	<8e567a48b3dc48d4b1cb7a06ceb1793f@mail.example>	OK	
+2026-07-28T12:34:55.064699+00:00	003-support.eml	71922cda8722	<d08c1be154e14e479b043e2c658a1687@mail.example>	OK	
+2026-07-29T09:06:51.273456+00:00	001_message.eml	bc9a6411e642	<050934ca7c5d483c809e27f8@mail.example>	OK	
+2026-07-29T09:06:51.527252+00:00	002_message.eml	279b642aab4a	<eb445d281289301fde3bbbb3@mail.example>	OK	
+2026-07-29T09:06:51.768588+00:00	003_message.eml	bbbef57defb9	<3dc2d8cbc9fe84bf77b1e1c9@mail.example>	OK	
+2026-07-29T09:06:52.012765+00:00	004_message.eml	465c163b40b7	<e7f3efd3cecf0e2630c9c963@mail.example>	OK	
+2026-07-29T09:06:52.265779+00:00	005_message.eml	deff612afdd4	<ce170ab35a328c36cbb0af09@mail.example>	OK	
+2026-07-29T09:06:52.520244+00:00	006_message.eml	de9c307806e6	<eae55751db559973d2a9612c@mail.example>	OK	
+2026-07-29T09:06:52.771291+00:00	007_message.eml	a1ad66b07146	<1939e70e444339d2a1cf359d@mail.example>	OK	
+2026-07-29T09:06:53.017232+00:00	008_message.eml	a136f5629ac6	<128b5830dc6069f7af8e1eb4@mail.example>	OK	
+2026-07-29T09:06:53.271260+00:00	009_message.eml	5583d788d42e	<3cad93bd8669fcdc45c19f51@mail.example>	OK	
+2026-07-29T09:06:53.529998+00:00	010_message.eml	df55df4f0aa8	<79da379db14b69b0db1167a6@mail.example>	OK	
+2026-07-29T09:06:53.771450+00:00	011_message.eml	408d9e172419	<94ed25cb62b6c0860ea797c5@mail.example>	OK	
+2026-07-29T09:06:54.022734+00:00	012_message.eml	b6531c840632	<1e366ad9e538294261f29a23@mail.example>	OK	
+2026-07-29T09:06:54.276470+00:00	013_message.eml	87876b2a4460	<be177d617c4aca42e5c830d2@mail.example>	OK	
+2026-07-29T09:06:54.521494+00:00	014_message.eml	108ac38e21ff	<be329d29db9077de413dcf88@mail.example>	OK	
+2026-07-29T09:06:54.777164+00:00	015_message.eml	a27226a1b85e	<795994d9a9faa891e33bf10c@mail.example>	OK	
+2026-07-29T09:06:55.029241+00:00	016_message.eml	e5bf1d85f99e	<9247bd76a1d6e1ed653cb5b3@mail.example>	OK	
+2026-07-29T09:06:55.279865+00:00	017_message.eml	fcc0b5c5ba08	<731785660b5c990f52e97b31@mail.example>	OK	
+2026-07-29T09:06:55.522306+00:00	018_message.eml	bc79af2afa8f	<6a03c603f733df0b577b2058@mail.example>	OK	
+2026-07-29T09:06:56.017545+00:00	019_message.eml	d39e2cabdf19	<74e3195ae44d16657a2b2015@mail.example>	OK	
+2026-07-29T09:06:56.294321+00:00	020_message.eml	859ee59e96c2	<68a3c4a7dd073ad6ef4e0b79@mail.example>	OK	
+2026-07-29T09:08:15.691648+00:00	001_message.eml	a8ba2aa3ea2d	<b7acf0a12b34bbdb2b0bcaac@mail.example>	OK	
+2026-07-29T09:08:15.767917+00:00	002_message.eml	65e0260ac60f	<2e58e3d635aeb07b88fef5ee@mail.example>	OK	
+2026-07-29T09:08:15.835741+00:00	003_message.eml	e391d8618780	<542b3a0efea77121c5fe8e1b@mail.example>	OK	
+2026-07-29T09:08:15.904081+00:00	004_message.eml	685a8adedd44	<6c4edc661e2890639f4060b7@mail.example>	OK	
+2026-07-29T09:08:15.969264+00:00	005_message.eml	91bacb73b522	<8fb767b5874ad4a532ef3386@mail.example>	OK	
+2026-07-29T09:08:16.030641+00:00	006_message.eml	87bbf81e1149	<c4d614bda25f98f72ba378b7@mail.example>	OK	
+2026-07-29T09:08:16.093210+00:00	007_message.eml	e308d4d8e434	<9bde9f315bae7fd50f02e90e@mail.example>	OK	
+2026-07-29T09:08:16.159814+00:00	008_message.eml	f8e7dc521af9	<7b7dd45ca603fba1b25b8d77@mail.example>	OK	
+2026-07-29T09:08:16.224342+00:00	009_message.eml	e20cd1571c8d	<3134de1d619b9788f2b4c246@mail.example>	OK	
+2026-07-29T09:08:16.289277+00:00	010_message.eml	61200dbf4725	<095f148b7b211d289b71fc6b@mail.example>	OK	
+2026-07-29T09:08:16.353231+00:00	011_message.eml	57f203444cda	<5f16adc5f4e6e0df91fd05a0@mail.example>	OK	
+2026-07-29T09:08:16.418092+00:00	012_message.eml	0747c5ef5b3c	<00f07566235bc28920ca8cec@mail.example>	OK	
+2026-07-29T09:08:16.480310+00:00	013_message.eml	9718a1b41d4d	<5a98b3c5847b5c7a6cc1e9dc@mail.example>	OK	
+2026-07-29T09:08:16.548108+00:00	014_message.eml	d180427437a7	<302fa96c90379292c9e3a179@mail.example>	OK	
+2026-07-29T09:08:16.617706+00:00	015_message.eml	fd290bb082d5	<76d9946adb0155780378eae2@mail.example>	OK	
+2026-07-29T09:08:16.683517+00:00	016_message.eml	2ac1e86ab470	<dbbb490edb298e3144ab5486@mail.example>	OK	
+2026-07-29T09:08:16.748931+00:00	017_message.eml	6ec1f876cbff	<fa07ed50e6628a5cf5391526@mail.example>	OK	
+2026-07-29T09:08:16.810049+00:00	018_message.eml	c705ba1de9f9	<ad6e960ea26a802e51666a07@mail.example>	OK	
+2026-07-29T09:08:16.880036+00:00	019_message.eml	779845c3d241	<55b803adaec004068587b4ef@mail.example>	OK	
+2026-07-29T09:08:16.948302+00:00	020_message.eml	07341cc5e374	<708c034fd6e3d298ef7d4834@mail.example>	OK	
+2026-07-29T09:08:17.012535+00:00	021_message.eml	698786a2d919	<f64ba1249d130442d7d11577@mail.example>	OK	
+2026-07-29T09:08:17.081274+00:00	022_message.eml	36ce5dfb5e49	<a781966e4a95c7a8221c0cb3@mail.example>	OK	
+2026-07-29T09:08:17.152880+00:00	023_message.eml	b13961ae0bcc	<ea0cc4afe624de47568c847d@mail.example>	OK	
+2026-07-29T09:08:17.220091+00:00	024_message.eml	02502ff9b612	<5e037c86e87049108c3bf8a0@mail.example>	OK	
+2026-07-29T09:08:17.286681+00:00	025_message.eml	b3dd019d5003	<5fd8121c1d3977109172bfc5@mail.example>	OK	
+2026-07-29T09:08:17.361594+00:00	026_message.eml	fb3a6f73126f	<176101664b87d98af38f580c@mail.example>	OK	
+2026-07-29T09:08:17.427843+00:00	027_message.eml	f6505a875142	<e4d527238a0e6908856fdaa4@mail.example>	OK	
+2026-07-29T09:08:17.488957+00:00	028_message.eml	bd0ef5a0c992	<0378c7e69702f8406bbf47e5@mail.example>	OK	
+2026-07-29T09:08:17.551872+00:00	029_message.eml	8a22e1e86dfb	<18fde8936c8db4fd9a86e289@mail.example>	OK	
+2026-07-29T09:08:17.613274+00:00	030_message.eml	b48acf7c8a10	<2a4cde2bc65972f6a4c9bd02@mail.example>	OK	
+2026-07-29T11:01:45.826050+00:00	45 дней без очередей и ПВЗ-6ac392.eml	d9e904152b2e	<054781ef4d175b9854d562bb@mail.example>	OK	
+2026-07-29T11:01:45.901628+00:00	FREE SINE update_ Version 1.4 is available to download now.eml	88959c5b176f	<44ec413b123f2e61e1c807db@mail.example>	OK	
+2026-07-29T11:01:46.015445+00:00	_ Вам письмо с идеями для фото.eml	283bc9375680	<5c096feae4372ed098ef33b7@mail.example>	OK	
+2026-07-29T11:01:46.123604+00:00	_ Кешбэк за внимательность.eml	d10e7a546c79	<aeae67b97bce30892479db8a@mail.example>	OK	
+2026-07-29T11:01:46.194940+00:00	_ Открыли предпродажу на премьеру_ в главной роли Анна Ковальчук_.eml	f8d527e3af4f	<803c48c2b91b120583739ded@mail.example>	OK	
+2026-07-29T11:01:46.299783+00:00	_за 1 _.eml	7c042aeb58f3	<a9e47b1e06aa9c6e190c8fce@mail.example>	OK	
+2026-07-29T11:01:46.389809+00:00	Анима Либера_ что почитать этим летом.eml	6b7601960e29	<bbf5ac91060ad7483a43fdfc@mail.example>	OK	
+2026-07-29T11:01:46.496488+00:00	Афиша с кэшбэком.eml	39fc768c61d9	<e74e6cfeb823d67e6361474a@mail.example>	OK	
+2026-07-29T11:01:46.571197+00:00	Выгодный июль-c8709f.eml	5972845d69e6	<c91e77beb418b5db21d6a469@mail.example>	OK	
+2026-07-29T11:01:46.685257+00:00	До 2000 _ за рекомендацию зарплатной карты ВТБ_.eml	69d6b2d697d1	<080b8884c6c2aceccb184369@mail.example>	OK	
+2026-07-29T11:01:46.792827+00:00	До _30_ до 29 июля.eml	fd1e2c01c553	<2363594ab47b38f25fa44833@mail.example>	OK	
+2026-07-29T11:01:46.898580+00:00	Доступно одно новое обновление Бинго_ плиз_.eml	4136798a999b	<59bc190fe17c93c5575b8726@mail.example>	OK	
+2026-07-29T11:01:46.971347+00:00	Коллеги_ пора тимбилдиться_.eml	bcc9080645b6	<4a40508496b24bd8c6e613d5@mail.example>	OK	
+2026-07-29T11:01:47.039424+00:00	Кредитная карта Ozon Банка _ легко и выгодно.eml	9165ed8ba8dc	<6fcf96fb952a38d0116ae9af@mail.example>	OK	
+2026-07-29T11:01:47.138115+00:00	Летом надо кайфовать-57ef07.eml	43c6cc1c98b1	<b51d9ff73742fac8cf23da6f@mail.example>	OK	
+2026-07-29T11:01:47.220577+00:00	Месси или Ямаль_.eml	f19af865fcbe	<5381b8619ed19b6ffa3e2ada@mail.example>	OK	
+2026-07-29T11:01:47.326994+00:00	Миссия _мини-отпуск_ выполнима.eml	5656a20a806b	<e02402fc87d9bcfee914efdd@mail.example>	OK	
+2026-07-29T11:01:47.403399+00:00	Находки со скидкой -70_.eml	1b299320c471	<35ec00d8ecfb718a55f24cc4@mail.example>	OK	
+2026-07-29T11:01:47.476503+00:00	Новая выплата семьям.eml	23536fcccc68	<b9046f4c9003cc5952eb1d45@mail.example>	OK	
+2026-07-29T11:01:47.548653+00:00	Новинки _Philips_.eml	c2e4b27122a3	<8fc5ccbf862faf0a5916ff0a@mail.example>	OK	
+2026-07-29T11:01:47.742611+00:00	Новинки июля.eml	67ae4ffbc23c	<21b94f656d5fd1faeb9d0040@mail.example>	OK	
+2026-07-29T11:01:47.822221+00:00	Ого_ это Моя волна от люмена.eml	a28a7bcf400f	<f4a47e3bf156f99efaaad882@mail.example>	OK	
+2026-07-29T11:01:47.894247+00:00	Предодобрили кредитную карту.eml	2242b21ae5ec	<7893102fb442e04e55ed6d7b@mail.example>	OK	
+2026-07-29T11:01:47.969706+00:00	Призы на 1 000 000 _.eml	2724d7f123e9	<a18aef6b4bcad20e2336ba76@mail.example>	OK	
+2026-07-29T11:01:48.042333+00:00	Собрали лучшие букеты за неделю_.eml	a2d6a275a2f1	<6cac34b80407bdfae134bbda@mail.example>	OK	
+2026-07-29T11:01:48.147145+00:00	Суперцены на_городские отели _.eml	ca2ad44f57a0	<c03da8a7aaa088844f37cd5f@mail.example>	OK	
+2026-07-29T11:01:48.242690+00:00	Товары для дома и сада со скидкой-5a7841.eml	cca560ceda51	<ef23c1f55032f8ee28ba3b34@mail.example>	OK	
+2026-07-29T11:01:48.315061+00:00	Финал сегодня.eml	59dc130d170f	<ccc03069fb85257063af933f@mail.example>	OK	
+2026-07-29T11:01:48.386914+00:00	Цена на ПИОНЫ снижена. До 70_.eml	e8b98ca076e8	<3fa524eb63bd0e3c0eabb01b@mail.example>	OK	
+2026-07-29T11:01:48.469220+00:00	Что в театре_ выпуск 18.eml	4242f687d02b	<0f2dcd544c70a23fc13ac942@mail.example>	OK	
+2026-07-29T11:03:29.713923+00:00	001_baggage_insurance_turkey.eml	0a9a3843b5ac	<09ef1d275727a1f89fb441cc@mail.example>	OK	
+2026-07-29T11:03:29.877159+00:00	001_istanbul_hotel.eml	f4e7eede4a68	<5b1347174f30cec1040baf4b@mail.example>	OK	
+2026-07-29T11:03:30.016179+00:00	001_turkey_istanbul.eml	4127a3726f19	<c23ca71575cbdefe81561d39@mail.example>	OK	
+2026-07-29T11:03:30.145904+00:00	002_antalya_hotel.eml	d20ef85d6276	<bf8e62938d65b184cc72c671@mail.example>	OK	
+2026-07-29T11:03:30.282998+00:00	002_baggage_insurance_china.eml	ec9272bdabd1	<cf1b8dd6d0a479488da38e06@mail.example>	OK	
+2026-07-29T11:03:30.376938+00:00	002_turkey_antalya.eml	995cd0b0008d	<b7f96208d11828b46ea5ee52@mail.example>	OK	
+2026-07-29T11:03:30.481427+00:00	003_baggage_insurance_korea.eml	b39803329600	<8297525c193b977e77923804@mail.example>	OK	
+2026-07-29T11:03:30.568906+00:00	003_china_shanghai.eml	0f7933ee21bd	<f721b1e55ff9de0cc48c6a27@mail.example>	OK	
+2026-07-29T11:03:30.674125+00:00	003_shanghai_hotel.eml	1dd137238733	<8cf21ff107fa0615f490be01@mail.example>	OK	
+2026-07-29T11:03:30.808072+00:00	004_beijing_hotel.eml	fc84dcecf0d6	<045c0680c25c2bc472bc5674@mail.example>	OK	
+2026-07-29T11:03:30.967134+00:00	004_china_beijing.eml	cd9c75d60515	<fa79ab1ae681732801d534be@mail.example>	OK	
+2026-07-29T11:03:31.160004+00:00	004_tour_murmansk.eml	bde93ab5151a	<b7397e1686ca3e3c2d2acc09@mail.example>	OK	
+2026-07-29T11:03:31.311422+00:00	005_korea_seoul.eml	cb148043309b	<6038716629fe650003dd0822@mail.example>	OK	
+2026-07-29T11:03:31.414559+00:00	005_seoul_hotel.eml	f2d369aaafff	<b3e03fcc43faf92c81a357fb@mail.example>	OK	
+2026-07-29T11:03:31.523638+00:00	005_tour_karelia.eml	d73b10e17fbe	<6109b6a1f700a60c50f07fc7@mail.example>	OK	
+2026-07-29T11:03:31.596580+00:00	006_busan_hotel.eml	d1ee94493b50	<39cd0a6350897c452608dba9@mail.example>	OK	
+2026-07-29T11:03:31.710753+00:00	006_korea_busan.eml	ba6d7a250e80	<18664c5b049fa99f118763f8@mail.example>	OK	
+2026-07-29T11:03:31.785919+00:00	006_tour_dagestan.eml	9c9287c565ec	<ec99aee76034a2036f476713@mail.example>	OK	
+2026-07-29T11:03:31.850075+00:00	generated_001_message.eml	dbdd57bdb21d	<69d98521602799b2e5b419a7@mail.example>	OK	
+2026-07-29T11:03:31.917166+00:00	generated_002_message.eml	554b0e4bc857	<7e59c3cf777e29ab7193160e@mail.example>	OK	
