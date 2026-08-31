@@ -1,13 +1,13 @@
 Received-SPF: pass (google.com: domain of noreply@cdek.ru designates
  192.0.2.251 as permitted sender) client-ip=192.0.2.251;
-Date: Thu, 27 Aug 2026 10:12:00 +0300
+Date: Mon, 31 Aug 2026 10:12:00 +0300
 From: =?utf-8?b?0JrQvtC80L/QsNC90LjRjyDQodCU0K3Qmg==?= <noreply@cdek.ru>
 Message-ID: <bf33c969043b1700e083458b@mail.example>
 Subject: =?utf-8?b?0JLQsNGIINC30LDQutCw0LcgNzkzMjE1NjIyMyDQtNC+0YHRgtCw0LI=?=
  =?utf-8?b?0LvQtdC9?=
 MIME-Version: 1.0
 Precedence: bulk
-To: 
+To:
  =?utf-8?b?0JzQuNGF0LDQuNC7INCa0L7Qt9GL0YDQtdCy?= <mikhail.kozyrev@rambler.ru>
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: base64
@@ -22,7 +22,7 @@ nNC+0YHQutCy0LAsINC+0YIgICAgICAgICAgICAgICAgICAgICAgICAg0JjRiNGD0YLQuNC9INCY
 0LLQsNC9INCh0LXRgNCz0LXQtdCy0LjRhzxici8+INCyINCz0L7RgNC+0LQg0KHQsNC90LrRgi3Q
 n9C10YLQtdGA0LHRg9GA0LMsINC00LvRjyDQnNC40YXQsNC40Lsg0JrQvtC30YvRgNC10LI8YnIv
 PiDQv9C+ICAgICAgICAgICAgICAgICAgICAgICAgINC90LDQutC70LDQtNC90L7QuSDihJYgNzU0
-NTAxMjY2OSA3NDU0NzIgICAgICDQsdGL0Lsg0LTQvtGB0YLQsNCy0LvQtdC9IDI4LjA4LjIwMjYg
+NTAxMjY2OSA3NDU0NzIgICAgICDQsdGL0Lsg0LTQvtGB0YLQsNCy0LvQtdC9IDAxLjA5LjIwMjYg
 MTU6MzkgICAgICAgICAgICAgICAgICAgICAgICAgLCDQv9C+0LvRg9GH0LDRgtC10LvRjCAtICDQ
 nNC40YXQsNC40Lsg0JrQvtC30YvRgNC10LIgPGJyLz48YnIvPjxiPjxici8+PC9iPjxwPjxmb250
 IGNvbG9yPSIjMDA1YTk1Ij48c3Bhbj48Zm9udCBmYWNlPSJhcmlhbCI+PGZvbnQgc2l6ZT0iMiI+
