@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import getpass
 import imaplib
+import json
 import os
 import ssl
 import sys
@@ -25,6 +26,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_MESSAGES_DIR = SCRIPT_DIR / "messages"
 SUBSETS_DIRNAME = "subsets"
 SENT_DIRNAME = "sent"
+CREDENTIALS_FILENAME = ".rambler_credentials.json"
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -67,6 +69,21 @@ def build_parser() -> argparse.ArgumentParser:
         "--dry-run",
         action="store_true",
         help="показать выбранные письма без подключения и загрузки",
+    )
+    parser.add_argument(
+        "--login",
+        metavar="EMAIL",
+        help="логин Rambler; имеет приоритет над сохранённым логином",
+    )
+    parser.add_argument(
+        "--remember-credentials",
+        action="store_true",
+        help="сохранить логин и пароль приложения локально для следующих запусков",
+    )
+    parser.add_argument(
+        "--clear-credentials",
+        action="store_true",
+        help="удалить локально сохранённые логин и пароль",
     )
     return parser
 
@@ -201,6 +218,68 @@ def write_log(
         )
 
 
+def credentials_file() -> Path:
+    return SCRIPT_DIR / CREDENTIALS_FILENAME
+
+
+def load_saved_credentials(path: Path | None = None) -> tuple[str, str] | None:
+    path = path or credentials_file()
+    if not path.is_file():
+        return None
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    login = str(data.get("login") or "").strip()
+    password = str(data.get("password") or "")
+    if not login or not password:
+        return None
+    return login, password
+
+
+def save_credentials(login: str, password: str, path: Path | None = None) -> None:
+    path = path or credentials_file()
+    payload = json.dumps(
+        {"login": login, "password": password},
+        ensure_ascii=False,
+        indent=2,
+    )
+    descriptor = os.open(path, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+    with os.fdopen(descriptor, "w", encoding="utf-8") as file:
+        file.write(payload)
+        file.write("\n")
+    os.chmod(path, 0o600)
+
+
+def clear_credentials(path: Path | None = None) -> bool:
+    path = path or credentials_file()
+    if not path.exists():
+        return False
+    path.unlink()
+    return True
+
+
+def resolve_credentials(
+    *,
+    login_override: str | None = None,
+) -> tuple[str, str]:
+    saved = load_saved_credentials()
+    saved_login, saved_password = saved or ("", "")
+    login = (
+        os.environ.get("RAMBLER_LOGIN")
+        or login_override
+        or saved_login
+        or input("Логин Rambler (полный email): ").strip()
+    )
+    matching_saved_password = saved_password if saved_login == login else ""
+    password = (
+        os.environ.get("RAMBLER_PASSWORD")
+        or matching_saved_password
+        or getpass.getpass("Пароль приложения Rambler: ")
+    )
+    return login, password
+
+
 def prepare_message(eml_path: Path, login: str, now: datetime):
     raw_template = eml_path.read_bytes()
     raw_template = raw_template.replace(b"{{TO}}", login.encode("utf-8"))
@@ -220,13 +299,14 @@ def prepare_message(eml_path: Path, login: str, now: datetime):
     return message
 
 
-def upload(files: Sequence[Path], messages_dir: Path) -> int:
-    login = os.environ.get("RAMBLER_LOGIN") or input(
-        "Логин Rambler (полный email): "
-    ).strip()
-    password = os.environ.get("RAMBLER_PASSWORD") or getpass.getpass(
-        "Пароль приложения Rambler: "
-    )
+def upload(
+    files: Sequence[Path],
+    messages_dir: Path,
+    *,
+    login_override: str | None = None,
+    remember_credentials: bool = False,
+) -> int:
+    login, password = resolve_credentials(login_override=login_override)
 
     sent_dir = messages_dir / SENT_DIRNAME
     log_file = SCRIPT_DIR / "upload.log"
@@ -244,6 +324,9 @@ def upload(files: Sequence[Path], messages_dir: Path) -> int:
             timeout=60,
         )
         connection.login(login, password)
+        if remember_credentials:
+            save_credentials(login, password)
+            print(f"Логин и пароль сохранены локально: {credentials_file()}")
         print(f"Найдено писем: {len(files)}")
 
         for number, eml_path in enumerate(files, start=1):
@@ -313,6 +396,13 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = parser.parse_args(argv)
     messages_dir = args.messages_dir.expanduser().resolve()
 
+    if args.clear_credentials:
+        removed = clear_credentials()
+        status = "удалены" if removed else "не были сохранены"
+        print(f"Локальные учётные данные {status}: {credentials_file()}")
+        if not (args.list_subsets or args.subset or args.file or args.all):
+            return 0
+
     if args.list_subsets:
         print_subsets(messages_dir)
         return 0
@@ -337,7 +427,12 @@ def main(argv: Sequence[str] | None = None) -> int:
             print(f"  {display}{suffix}")
         return 0
 
-    return upload(files, messages_dir)
+    return upload(
+        files,
+        messages_dir,
+        login_override=args.login,
+        remember_credentials=args.remember_credentials,
+    )
 
 
 if __name__ == "__main__":

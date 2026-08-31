@@ -12,9 +12,12 @@ from rambler_imap_cli import (
     attachment_count,
     build_parser,
     discover_subsets,
+    load_saved_credentials,
     prepare_message,
+    resolve_credentials,
     resolve_named_file,
     resolve_selection,
+    save_credentials,
     upload,
 )
 
@@ -147,6 +150,81 @@ class SelectionTests(unittest.TestCase):
         source = self.make_eml("subsets/travel/ticket.eml")
         self.make_eml("sent/already-uploaded.eml")
         self.assertEqual(available_eml_files(self.messages), [source])
+
+    def test_saved_credentials_roundtrip_uses_private_file_mode(self):
+        path = self.messages / "credentials.json"
+
+        save_credentials("mikhail.kozyrev@rambler.ru", "secret", path)
+
+        self.assertEqual(
+            load_saved_credentials(path),
+            ("mikhail.kozyrev@rambler.ru", "secret"),
+        )
+        self.assertEqual(path.stat().st_mode & 0o777, 0o600)
+
+    def test_upload_remembers_credentials_after_successful_login(self):
+        path = self.messages / "subsets" / "travel" / "notice.eml"
+        message = EmailMessage()
+        message["From"] = "service@example.test"
+        message["To"] = "mikhail.kozyrev@rambler.ru"
+        message["Subject"] = "Уведомление"
+        message.set_content("Содержание")
+        path.write_bytes(message.as_bytes())
+
+        class FakeImap:
+            def __init__(self, **_kwargs):
+                pass
+
+            def login(self, _login, _password):
+                return "OK", []
+
+            def append(self, _folder, _flags, _date, _payload):
+                return "OK", [b"saved"]
+
+            def logout(self):
+                return "BYE", []
+
+        with (
+            patch("rambler_imap_cli.imaplib.IMAP4_SSL", FakeImap),
+            patch("rambler_imap_cli.SCRIPT_DIR", self.messages),
+            patch.dict(
+                "os.environ",
+                {"RAMBLER_LOGIN": "mikhail.kozyrev@rambler.ru", "RAMBLER_PASSWORD": "secret"},
+                clear=True,
+            ),
+        ):
+            result = upload([path], self.messages, remember_credentials=True)
+
+        self.assertEqual(result, 0)
+        self.assertEqual(
+            load_saved_credentials(self.messages / ".rambler_credentials.json"),
+            ("mikhail.kozyrev@rambler.ru", "secret"),
+        )
+
+    def test_resolve_credentials_uses_saved_values_without_prompting(self):
+        save_credentials("mikhail.kozyrev@rambler.ru", "secret", self.messages / ".rambler_credentials.json")
+
+        with (
+            patch("rambler_imap_cli.SCRIPT_DIR", self.messages),
+            patch.dict("os.environ", {}, clear=True),
+            patch("builtins.input", side_effect=AssertionError("unexpected login prompt")),
+            patch("rambler_imap_cli.getpass.getpass", side_effect=AssertionError("unexpected password prompt")),
+        ):
+            credentials = resolve_credentials()
+
+        self.assertEqual(credentials, ("mikhail.kozyrev@rambler.ru", "secret"))
+
+    def test_login_override_does_not_reuse_password_for_another_saved_login(self):
+        save_credentials("old.user@rambler.ru", "old-secret", self.messages / ".rambler_credentials.json")
+
+        with (
+            patch("rambler_imap_cli.SCRIPT_DIR", self.messages),
+            patch.dict("os.environ", {}, clear=True),
+            patch("rambler_imap_cli.getpass.getpass", return_value="new-secret"),
+        ):
+            credentials = resolve_credentials(login_override="mikhail.kozyrev@rambler.ru")
+
+        self.assertEqual(credentials, ("mikhail.kozyrev@rambler.ru", "new-secret"))
 
 
 if __name__ == "__main__":

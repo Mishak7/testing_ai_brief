@@ -1,0 +1,4 @@
+.rambler_credentials.json
+.DS_Store
+__pycache__/
+messages/sent/

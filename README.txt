@@ -6,12 +6,25 @@ CLI загружает подготовленные .eml-письма в INBOX R
 Структура:
 - upload_all_to_rambler.sh        совместимый launcher
 - rambler_imap_cli.py             CLI-приложение
+- BRIEF_DAY_TESTING.md            короткий маршрут прогона Brief Day
 - messages/subsets/<name>/        сценарные наборы
-- messages/sent/                  успешно загруженные письма
+- messages/sent/                  копии успешно загруженных писем
 - upload.log                      журнал загрузки
 
 Подготовка:
   chmod +x upload_all_to_rambler.sh rambler_imap_cli.py
+
+Один раз сохранить логин и пароль приложения после успешного входа:
+  ./upload_all_to_rambler.sh --remember-credentials --login mikhail.kozyrev@rambler.ru --subset smoke_core
+
+После этого можно грузить сколько угодно сабсетов без повторного ввода пароля:
+  ./upload_all_to_rambler.sh --subset prioritization_deadlines --subset deadline_memory_day_1
+  ./upload_all_to_rambler.sh --file messages/subsets/calendar_candidates_min/001_train_moscow_novgorod.eml
+
+Сбросить сохранённые данные:
+  ./upload_all_to_rambler.sh --clear-credentials
+
+Альтернатива без сохранения файла:
   export RAMBLER_LOGIN="user@rambler.ru"
   export RAMBLER_PASSWORD="пароль приложения"
 
@@ -30,25 +43,12 @@ CLI загружает подготовленные .eml-письма в INBOX R
 Если для --file передано только имя, CLI ищет его во всех доступных исходных
 письмах. При совпадении нескольких файлов нужно передать точный путь.
 
-Сценарные наборы:
-- baseline_profile
-- prioritization_deadlines
-- deadline_memory_day_1
-- deadline_memory_near_due
-- empty_calendar_candidate
-- attachment_without_drive
-- travel
-- jobseeker
-- feedback_category_rules
-- promo_flood
-
 После успешной загрузки исходный .eml остается в сабсете. В messages/sent/
 сохраняется копия фактически отправленного письма. Если имя уже занято, CLI
 добавляет к копии уникальный суффикс.
 
 CLI рекурсивно ищет письма внутри выбранного сабсета. MIME-вложения, уже
-встроенные в .eml, передаются в IMAP APPEND вместе с письмом. Это позволяет
-загружать attachment_without_drive/messages/ вместе с PDF-документами.
+встроенные в .eml, передаются в IMAP APPEND вместе с письмом.
 
 Формат upload.log:
   UTC-дата<TAB>имя файла<TAB>tracking_id<TAB>Message-ID<TAB>статус<TAB>детали

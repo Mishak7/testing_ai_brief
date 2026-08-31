@@ -1,6 +1,6 @@
 From: StayRoute <payments@stayroute.example.test>
 To: {{TO}}
-Date: Wed, 12 Aug 2026 11:20:00 +0300
+Date: Wed, 26 Aug 2026 08:55:00 +0300
 Message-ID: <178532427190.306.13749597825538765519@stayroute.example.test>
 Subject: =?utf-8?b?0J/RgNC10LTQvtC/0LvQsNGC0YMg0LfQsCDQvtGC0LXQu9GMINC90YM=?=
  =?utf-8?b?0LbQvdC+INCy0L3QtdGB0YLQuCDRgdC10LPQvtC00L3Rjw==?=
@@ -9,20 +9,21 @@ Content-Type: multipart/alternative;
  boundary="===============7856619171004963250=="
 
 --===============7856619171004963250==
+MIME-Version: 1.0
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: base64
 
-0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshDQoNCtCR0YDQvtC90LjRgNC+
-0LLQsNC90LjQtSDRg9C00LXRgNC20LjQstCw0LXRgtGB0Y8g0LTQviDQstC10YfQtdGA0LANCg0K
-0JLQvdC10YHQuNGC0LUg0L/RgNC10LTQvtC/0LvQsNGC0YMgMTggNDAwIOKCvSDQtNC+IDIxOjAw
-IDEyINCw0LLQs9GD0YHRgtCwIDIwMjYg0LPQvtC00LAsINC40L3QsNGH0LUg0LHRgNC+0L3QuNGA
-0L7QstCw0L3QuNC1INCx0YPQtNC10YIg0L7RgtC80LXQvdC10L3Qvi4NCg0K0KHRgNC+0Lo6IDEy
-LjA4LjIwMjYgMjE6MDANCg==
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshCgrQkdGA0L7QvdC40YDQvtCy
+0LDQvdC40LUg0YPQtNC10YDQttC40LLQsNC10YLRgdGPINC00L4g0LLQtdGH0LXRgNCwCgrQktC9
+0LXRgdC40YLQtSDQv9GA0LXQtNC+0L/Qu9Cw0YLRgyAxOCA0MDAg4oK9INC00L4gMjE6MDAgMjYg
+0LDQstCz0YPRgdGC0LAgMjAyNiDQs9C+0LTQsCwg0LjQvdCw0YfQtSDQsdGA0L7QvdC40YDQvtCy
+0LDQvdC40LUg0LHRg9C00LXRgiDQvtGC0LzQtdC90LXQvdC+LgoK0KHRgNC+0Lo6IDI3Tm9uZTA4
+Tm9uZTIwMjYgMjE6MDAK
 
 --===============7856619171004963250==
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!doctype html>
 <html lang=3D"ru">
@@ -54,13 +55,13 @@ ius:12px;overflow:hidden;
 !</p>
               <p style=3D"margin:0;">=D0=92=D0=BD=D0=B5=D1=81=D0=B8=D1=82=D0=
 =B5 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D1=83 18 400 =E2=
-=82=BD =D0=B4=D0=BE 21:00 12 =D0=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82=D0=B0 2026 =
+=82=BD =D0=B4=D0=BE 21:00 26 =D0=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82=D0=B0 2026 =
 =D0=B3=D0=BE=D0=B4=D0=B0, =D0=B8=D0=BD=D0=B0=D1=87=D0=B5 =D0=B1=D1=80=D0=BE=
 =D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B1=D1=83=D0=B4=D0=
 =B5=D1=82 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=BE.</p>
               <div style=3D"margin-top:18px;padding:12px 14px;border-left:4px=
- solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 12.08.20=
-26 21:00</div>
+ solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 27None08=
+None2026 21:00</div>
             </td>
           </tr>
         </table>

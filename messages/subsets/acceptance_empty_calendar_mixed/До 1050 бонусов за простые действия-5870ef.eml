@@ -1,0 +1,759 @@
+Precedence: bulk
+List-Id: <sbrf.pg_sendsay>
+List-Issue: <75622274555118.sbrf.pg>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://sendsay.example/link/de71ec205f3c5c4c>
+List-Subscribe: NO
+List-Archive: NO
+List-Post: NO
+Message-Id: <88cda1818950ff24bf7b0546@mail.example>
+Date: Thu, 27 Aug 2026 10:56:00 +0300
+From: =?utf-8?b?0KHQsdC10YDQodC/0LDRgdC40LHQvg==?= <digest@spasibosb.ru>
+Subject: =?utf-8?b?0JTQviAxMDUwINCx0L7QvdGD0YHQvtCyINC30LAg0L/RgNC+0YHRgtGL?=
+ =?utf-8?b?0LUg0LTQtdC50YHRgtCy0LjRjw==?=
+MIME-Version: 1.0
+To: 
+ =?utf-8?b?0JzQuNGF0LDQuNC7INCa0L7Qt9GL0YDQtdCy?= <mikhail.kozyrev@rambler.ru>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=3D"utf-8" />
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta content=3D"telephone=3Dno" name=3D"format-detection" />
+<meta name=3D"viewport" content=3D"width=3D400" />
+<style type=3D"text/css">
+.ExternalClass {
+width: 100%;
+}
+img {
+border: 0 none;
+height: auto;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic;
+}
+a img {
+border: 0 none;
+}
+div {
+padding: 0 !important;
+margin: 0 !important;
+}
+#outlook a {
+padding: 0;
+}
+#allrecords {
+height: 100% !important;
+margin: 0;
+padding: 0;
+width: 100% !important;
+-webkit-font-smoothing: antialiased;
+line-height: 1.3;
+}
+#allrecords td {
+margin: 0;
+padding: 0;
+}
+#allrecords ul {
+-webkit-padding-start: 30px;
+}
+.display-none {
+display: none !important;
+}
+@media only screen and (max-width: 600px) {
+.email__viewport {
+width: 100% !important;
+min-width: 400px !important;
+}
+.email__prehead {
+font-size: 1px !important;
+color: transparent !important;
+}
+}
+@media only screen and (max-width: 563px) {
+.display-block {
+display: none !important;
+}
+.display-none {
+display: block !important;
+}
+.email__top-logo {
+display: block !important;
+width: 100% !important;
+text-align: center !important;
+padding: 0 !important;
+}
+.email__padding-20 {
+padding-top: 40px !important;
+}
+.email__padding-top {
+padding-top: 10px !important;
+}
+.email__padding-bottom {
+padding-bottom: 30px !important;
+}
+.email__mobile-adaptive {
+display: block !important;
+padding-left: 0 !important;
+padding-right: 0 !important;
+width: 100% !important;
+}
+.email__top-menu {
+display: block !important;
+width: 100% !important;
+padding: 12px 0 10px !important;
+}
+.email__text {
+font-size: 20px !important;
+}
+.email__text-menu {
+font-size: 15px !important;
+}
+.padding-none {
+padding: 0px !important;
+}
+.email__viewport_n {
+padding: 0 15px !important;
+}
+.email_mp {
+padding: 0 15px !important;
+}
+.email__mp_banner {
+width: 200px !important;
+margin: 0 auto !important;
+}
+.email__text_mp {
+font-size: 20px !important;
+}
+.email__text_title {
+font-size: 24px !important;
+}
+.email__img_mp {
+width: 300px !important;
+}
+.email__icon {
+width: 42px !important;
+}
+.email__img {
+width: 110px !important;
+}
+.btn__width {
+width: 100% !important;
+}
+.email__disc {
+font-size: 12px !important;
+}
+.email__disc-2 {
+font-size: 10px !important;
+}
+.email__text_title-2 {
+font-size: 24px !important;
+}
+.email__logo-width {
+width: 124px !important;
+max-width: 124px !important;
+}
+.email__padding-8 {
+padding-top: 0px !important;
+}
+.email__center {
+margin: 0 auto !important;
+}
+/* .email__seti-width {
+width: 160px !important;
+} */
+.email__img-app {
+width: 130px !important;
+max-width: 130px !important;
+}
+.bottomblock__img {
+width: 370px !important;
+max-width: 370px !important;
+text-align: right !important;
+padding-right: 10px !important;
+}
+.text-balans-mob {
+font-size: 12px !important;
+}
+.text-balans-mob2 {
+font-size: 10px !important;
+}
+.img-balans-mob {
+width: 9px !important;
+max-width: 9px !important;
+}
+.img-devider-mob {
+width: 1px !important;
+max-width: 1px !important;
+height: 32px !important;
+}
+.email_img_app {
+width: 250px !important;
+max-width: 250px !important;
+}
+.email_img_seti {
+width: 48px !important;
+max-width: 48px !important;
+}
+.email_img_menu {
+width: 24px !important;
+max-width: 24px !important;
+padding-top: 4px !important;
+}
+.email__text_menu {
+font-size: 14px !important;
+}
+.email__prehead {
+font-size: 0px !important;
+color: transparent !important;
+opacity:0 !important;
+display:none !important;
+}
+}
+</style>
+</head>
+<body cellpadding=3D"0" cellspacing=3D"0" style=3D"padding: 0; margin: 0; bor=
+der: 0; width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;=
+ background-color: #FFFFFF;">
+<table id=3D"allrecords" class=3D"email" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; border-collapse:collapse; border-spacing:0; padding:0; m=
+argin:0; border:0;">
+<tr>
+<td style=3D"background-color: #FFFFFF;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%; =
+border-collapse:collapse;">
+<tr>
+<td height=3D"16" style=3D"line-height:5px;" class=3D"email__prehead">
+<span class=3D"email__prehead" style=3D"font-size:0px;color:transparent;opaci=
+ty:0; display:none !important;">
+=D0=98=C2=A0=D0=B5=D1=89=D1=91 =D0=BA=D0=BE=D0=B5-=D1=87=D1=82=D0=BE =D0=B8=
+=D0=BD=D1=82=D0=B5=D1=80=D0=B5=D1=81=D0=BD=D0=BE=D0=B5
+</span>
+<span style=3D"font-size:0px;color:transparent;opacity:0;">
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+</span>
+</td>
+</tr>
+<!-- =D0=BB=D0=BE=D0=B3=D0=BE + =D0=BA=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=80=D0=
+=B8=D0=B8 - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<!-- =D0=BB=D0=BE=D0=B3=D0=BE + =D0=BA=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=80=D0=
+=B8=D0=B8 - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<tr>
+<td style=3D"padding-left:15px; padding-right:15px; padding-top:0px; padding-=
+bottom:0px;">
+<table class=3D"email__viewport" style=3D"margin: 0 auto; background-color:#F=
+FFFFF; border-spacing:0; width:600px;" align=3D"center">
+<tr>
+<td class=3D"email__padding-8" style=3D"padding-top: 14px; height: 48px;" ali=
+gn=3D"left">
+<a
+href=3D"https://sendsay.example/link/a0f7ae93c51183a6"
+ style=3D"outline: none; text-decoration: none;" target=3D"_blank">
+<img width=3D"159" style=3D"width:159px; max-width:159px;" src=3D"https://dm.=
+example/link/434ecedeecfcc9a8" border=3D"0">
+</a>
+</td>
+<td class=3D"email__padding-8" style=3D"padding-top: 14px; height: 36px;" ali=
+gn=3D"right">
+<a
+href=3D"https://sendsay.example/link/543fb8d329f6eb56"
+ style=3D"outline: none;" target=3D"_blank">
+<img width=3D"203" style=3D"width:203px; max-width:203px;" src=3D"https://dm.=
+example/link/c9ca9cccb3e607e2" border=3D"0">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- =D0=BB=D0=BE=D0=B3=D0=BE + =D0=BA=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=80=D0=
+=B8=D0=B8 - =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->
+<tr>
+<td class=3D"email__padding-8" style=3D"padding-left:15px; padding-right:15px=
+; padding-top:8px; padding-bottom:0px;">
+<table class=3D"email__viewport" style=3D"margin: 0 auto; background-color:#F=
+FFFFF; border-spacing:0; width:600px;" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+<tr>
+<td style=3D"padding:0;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr>
+<td height=3D"22" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"22" border=3D=
+"0" style=3D"display: block;">
+</td>
+</tr>
+<!-- =D0=B3=D0=BB=D0=B0=D0=B2=D0=BD=D1=8B=D0=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=
+=B5=D1=80 - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<tr>
+<td style=3D"width:100%; text-align: center;">
+<a
+href=3D"https://sendsay.example/link/6385eba55fb75bdd"
+ style=3D"outline:none; text-decoration: none;" target=3D"_blank">
+<img width=3D"600" align=3D"center" style=3D"display: block; width: 100%; max=
+-width:600px; height: auto;" src=3D"https://dm.example/link/0e6b4d69e25d34a3"=
+ border=3D"0">
+</a>
+</td>
+</tr>
+<!-- =D0=B3=D0=BB=D0=B0=D0=B2=D0=BD=D1=8B=D0=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=
+=B5=D1=80 - =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left:15px; padding-right:15px; padding-top:0px; padding-=
+bottom:0px;">
+<table class=3D"email__viewport" style=3D"margin: 0 auto; background-color:#F=
+FFFFF; border-spacing:0; width:600px;" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+<tr>
+<td class=3D"padding-none">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"background-color:#ffffff;">
+<tr>
+<td height=3D"30" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"30" border=3D=
+"0" style=3D"display: block;">
+</td>
+</tr>
+<!-- =D1=82=D0=B5=D0=BA=D1=81=D1=82 - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<tr>
+<td style=3D"text-align: left;padding: 0 0px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td valign=3D"center">
+<div style=3D"margin-right: auto; font-weight: normal; font-family: Helvetica=
+ Neue, Helvetica, Arial, sans-serif; color:#765904;line-height: 1.4em;font-si=
+ze:20px;">
+=D0=97=D0=B0=D0=B3=D0=BB=D1=8F=D0=BD=D0=B8=D1=82=D0=B5 =D0=B2=C2=A0=D1=81=D0=
+=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=80=D0=B0=D0=B7=
+=D0=B4=D0=B5=D0=BB =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=
+=8F =D0=A1=D0=B1=D0=B5=D1=80=D0=B0=C2=A0=E2=80=94 =D0=B7=D0=B4=D0=B5=D1=81=D1=
+=8C =D0=B2=D0=B0=D1=81 =D0=B6=D0=B4=D1=83=D1=82 =D0=B4=D0=BE=C2=A01050 =D0=B1=
+=D0=BE=D0=BD=D1=83=D1=81=D0=BE=D0=B2 =D0=B7=D0=B0=C2=A0=D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=8B=
+=D1=85 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B9.
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =D1=82=D0=B5=D0=BA=D1=81=D1=82 - =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->
+<tr>
+<td height=3D"30" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"30" border=3D=
+"0" style=3D"display: block;">
+</td>
+</tr>
+<!-- =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=
+=BE -->
+<tr>
+<td style=3D"width:100%; text-align: center;">
+<img width=3D"600" align=3D"center" style=3D"display: block; width: 100%; max=
+-width:600px; height: auto;" src=3D"https://dm.example/link/53c49c0b3ef6e292"=
+ border=3D"0">
+</td>
+</tr>
+<!-- =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 - =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->
+<tr>
+<td height=3D"20" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/8b5a757443ea7707" height=3D"30" border=3D=
+"0"
+style=3D"display: block;">
+</td>
+</tr>
+<tr>
+<td align=3D"center">
+<table class=3D"btn__width" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"240" style=3D"border-collapse:collapse;">
+<tbody>
+<tr height=3D"48">
+<td height=3D"48" style=3D"text-align: center; background: #1CB94A; color:#ff=
+ffff; border-radius: 10px;">
+<div class=3D"email__text" style=3D"margin: 0 auto; padding:8px 20px; display=
+:block; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, s=
+ans-serif; color:#ffffff; font-size:18px; word-wrap: normal; line-height:1.3">
+<a
+href=3D"https://sendsay.example/link/6385eba55fb75bdd"
+ style=3D"text-decoration: none; outline: none; color: #ffffff; display:block=
+;" target=3D"_blank">
+=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=8C
+</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"45" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"45" border=3D=
+"0"
+style=3D"display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- =D1=81=D0=BE=D1=86=D1=81=D0=B5=D1=82=D0=B8 - =D0=BD=D0=B0=D1=87=D0=B0=D0=
+=BB=D0=BE -->
+<tr>
+<td>
+<table border=3D"0" class=3D"email__viewport" style=3D"margin: 0 auto;border-=
+spacing: 0;width:600px;" align=3D"center">
+<tbody>
+<tr>
+<td style=3D"padding-top: 33px">
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"width:100%; border-collapse:collapse;">
+<tbody>
+<tr>
+<td style=3D"width: 100%;">
+<table align=3D"center" style=3D"width: 100%;" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:collapse;">
+<tbody>
+<tr>
+<td class=3D"email__mobile-adaptive email__center email__seti-width email__pa=
+dding-top"  width=3D"120px" style=3D"text-align: center" align=3D"center" ver=
+tical-align=3D"center" >
+<table class=3D"email__center" align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"border-collapse:collapse;text-align: center">
+<tbody>
+<tr>
+<td align=3D"right" style=3D"padding: 0 8px 0 0;">
+<a style=3D"text-decoration: none;"
+href=3D"https://sendsay.example/link/34c7ad18f3a4dfd6"
+ data-felis_link_id=3D"4939">
+<img width=3D"46" style=3D"display: block; width: 46px;"  class=3D"email_img_=
+seti" src=3D"https://dm.example/link/084bd514f3d49b4b" border=3D"0">
+</a>
+</td>
+<td align=3D"right" style=3D"padding: 0 8px;">
+<a style=3D"text-decoration: none;"
+href=3D"https://sendsay.example/link/ff57f941f41b0c4a"
+ data-felis_link_id=3D"4938">
+<img width=3D"46" style=3D"display: block; width: 46px;"  class=3D"email_img_=
+seti" src=3D"https://dm.example/link/de9e766bc02910f4" border=3D"0">
+</a>
+</td>
+<td align=3D"right" style=3D"padding: 0 0 0 8px;">
+<a style=3D"text-decoration: none;"
+href=3D"https://sendsay.example/link/f4d47e9bf7152a9b"
+ data-felis_link_id=3D"4765">
+<img width=3D"46" style=3D"display: block; width: 46px;"  class=3D"email_img_=
+seti" src=3D"https://dm.example/link/4ec5a9aad6acf647" border=3D"0">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =D1=81=D0=BE=D1=86=D1=81=D0=B5=D1=82=D0=B8 - =D0=BA=D0=BE=D0=BD=D0=B5=D1=
+=86 -->
+<!-- =D0=B1=D0=BB=D0=BE=D0=BA "=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C=D1=81=D1=8F" - =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<tr>
+<td>
+<table class=3D"email__viewport" border=3D"0" style=3D"margin: 0 auto;border-=
+spacing: 0;width:600px;" align=3D"center">
+<tr>
+<td style=3D"padding: 24px 15px 0 15px;">
+<table valign=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"width: 100%;">
+<tr>
+<td style=3D"text-align: left;">
+<div class=3D"email__disc-2" style=3D"margin: 0 auto; font-family: Helvetica =
+Neue, Helvetica, Arial, sans-serif; color:#31373B;font-size:9px;line-height: =
+16px">
+<span class=3D"email__disc-2" style=3D"font-family: Helvetica Neue, Helvetica=
+, Arial, sans-serif; color:#31373B;font-size:9px;">
+=D0=A0=D0=B5=D0=BA=D0=BB=D0=B0=D0=BC=D0=B0. =D0=A0=D0=B5=D0=BA=D0=BB=D0=B0=D0=
+=BC=D0=BE=D0=B4=D0=B0=D1=82=D0=B5=D0=BB=D1=8C: =D0=9F=D0=90=D0=9E =D0=A1=D0=
+=B1=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA. =D0=98=D0=9D=D0=9D 7347182764.
+<br>
+=D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=
+=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=B0=D0=BA=
+ =D1=83=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA =D0=B1=D0=BE=D0=BD=D1=83=D1=
+=81=D0=BD=D0=BE=D0=B9 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B =
+=C2=AB=D0=A1=D0=B1=D0=B5=D1=80=D0=A1=D0=BF=D0=B0=D1=81=D0=B8=D0=B1=D0=BE=C2=
+=BB. =D0=95=D1=81=D0=BB=D0=B8 =D0=92=D1=8B =D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=
+=B5 =D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=D1=82=
+ =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F
+=D0=BE =D0=BD=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D1=8F=D1=85 =D0=B8 =D0=B0=D0=BA=
+=D1=86=D0=B8=D1=8F=D1=85 =D1=81 =D0=BF=D0=BE=D0=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=
+=BD=D1=8B=D0=BC=D0=B8 =D0=B1=D0=BE=D0=BD=D1=83=D1=81=D0=B0=D0=BC=D0=B8 =D0=B2=
+ =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5, =D0=92=D1=8B =D0=BC=D0=BE=
+=D0=B6=D0=B5=D1=82=D0=B5 =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =D1=8D=D1=
+=82=D0=BE =D0=BF=D0=BE
+<a
+href=3D"https://sendsay.example/link/84b5adcc1e93b858"
+ style=3D"outline: none; text-decoration: underline; color: #766694;" target=
+=3D"_blank">
+<font face=3D"Arial" color=3D"#31373B" style=3D"text-decoration: underline; c=
+olor: #31373B;">
+=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5
+</font>
+</a>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"16" border=3D=
+"0"
+style=3D"display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- =D0=B1=D0=BB=D0=BE=D0=BA "=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C=D1=81=D1=8F" - =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->
+<!-- =D0=B4=D0=B8=D1=81=D0=BA=D0=BB=D0=B5=D0=B9=D0=BC=D0=B5=D1=80 - =D0=BD=D0=
+=B0=D1=87=D0=B0=D0=BB=D0=BE -->
+<tr>
+<td>
+<table class=3D"email__viewport" style=3D"margin: 0 auto;border-spacing: 0;wi=
+dth:600px;" align=3D"center">
+<tr>
+<td style=3D"padding: 0 15px;">
+<table valign=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"width: 100%;">
+<tr>
+<td style=3D"text-align: left;">
+<div class=3D"email__disc-2" style=3D"margin: 0 auto; font-family: Helvetica =
+Neue, Helvetica, Arial, sans-serif; color:#31373B;font-size:9px;line-height: =
+16px;">
+<span class=3D"email__disc-2" style=3D"font-family: Helvetica Neue, Helvetica=
+, Arial, sans-serif; color:#31373B;font-size:9px;">
+=D0=9F=D1=80=D0=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B4=D0=
+=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D0=B4=
+=D0=BB=D1=8F =D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=BE=D0=B2 =D0=
+=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B =C2=AB=D0=A1=D0=B1=D0=B5=
+=D1=80=D0=A1=D0=BF=D0=B0=D1=81=D0=B8=D0=B1=D0=BE=C2=BB (=D0=B4=D0=B0=D0=BB=D0=
+=B5=D0=B5 =E2=80=93 =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0),
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=
+=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=82 =D0=BA=D1=80=D0=B8=D1=82=D0=B5=
+=D1=80=D0=B8=D1=8F=D0=BC, =D0=BF=D1=80=D0=B5=D0=B4=D1=83=D1=81=D0=BC=D0=BE=D1=
+=82=D1=80=D0=B5=D0=BD=D0=BD=D1=8B=D0=BC
+<a
+href=3D"https://sendsay.example/link/d459bd1e27cc50ae"
+ style=3D"text-decoration: underline; color: #31373B;" target=3D"_blank">=D0=
+=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0=D0=BC=D0=B8 =D0=B0=D0=BA=D1=86=D0=B8=
+=D0=B8</a> =C2=AB=D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B7=D0=B0 =D0=BF=D1=
+=80=D0=BE=D1=81=D1=82=D1=8B=D0=B5 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=
+=D1=8F=C2=BB (=D0=90=D0=BA=D1=86=D0=B8=D1=8F).
+=D0=92=D1=81=D0=B5 =D1=81=D1=80=D0=BE=D0=BA=D0=B8 =D1=83=D0=BA=D0=B0=D0=B7=D0=
+=B0=D0=BD=D1=8B =D0=BF=D0=BE =D0=BC=D0=BE=D1=81=D0=BA=D0=BE=D0=B2=D1=81=D0=BA=
+=D0=BE=D0=BC=D1=83 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8, =D0=BE=D0=B1=
+=D1=89=D0=B8=D0=B9 =D1=81=D1=80=D0=BE=D0=BA =D0=90=D0=BA=D1=86=D0=B8=D0=B8 (=
+=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F =D1=81=D1=80=D0=BE=D0=BA =D0=BF=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=9F=D0=BE=D0=BE=D1=89=D1=80=
+=D0=B5=D0=BD=D0=B8=D0=B9):
+=D1=81 29.08.2026 =D0=BF=D0=BE 17.09.2026 =D0=B8/=D0=B8=D0=BB=D0=B8 =D0=B4=D0=
+=BE =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D0=B8=D1=81=D1=87=D0=B5=D1=80=
+=D0=BF=D0=B0=D0=BD=D0=B8=D1=8F =D1=84=D0=BE=D0=BD=D0=B4=D0=B0 =D0=90=D0=BA=D1=
+=86=D0=B8=D0=B8 (=D0=B2 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=
+=81=D1=82=D0=B8 =D0=BE=D1=82 =D1=82=D0=BE=D0=B3=D0=BE =D0=BA=D0=B0=D0=BA=D0=
+=BE=D0=B5
+=D0=B8=D0=B7 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D0=B9 =D0=BD=D0=B0=D1=81=D1=
+=82=D1=83=D0=BF=D0=B8=D1=82 =D1=80=D0=B0=D0=BD=D0=B5=D0=B5) =D0=B2=D0=BA=D0=
+=BB=D1=8E=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE; =D1=81=D1=80=D0=BE=
+=D0=BA =D0=B4=D0=BB=D1=8F =D1=81=D0=BE=D0=B2=D0=B5=D1=80=D1=88=D0=B5=D0=BD=D0=
+=B8=D1=8F =D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0=D0=BC=D0=B8 =
+=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B9 =D0=B2 =D1=86=D0=B5=D0=BB=D1=
+=8F=D1=85 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F
+=D0=9F=D0=BE=D0=BE=D1=89=D1=80=D0=B5=D0=BD=D0=B8=D0=B9 =E2=80=93 =D1=81 29.08=
+.2026 =D0=B3. =D0=BF=D0=BE 06.09.2026 =D0=B3. =D0=B2=D0=BA=D0=BB, =D0=B2 =D1=
+=80=D0=B0=D0=BC=D0=BA=D0=B0=D1=85 =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D1=81=D1=80=
+=D0=BE=D0=BA=D0=B0 =D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA =D0=B4=D0=
+=BE=D0=BB=D0=B6=D0=B5=D0=BD =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D1=82=
+=D1=8C
+=D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =D1=81=D1=80=D0=BE=D0=BA=D0=
+=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D0=BC=D1=8B=D0=B5 =
+=D0=B2 =D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=BC =D0=BF=D1=80=D0=
+=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D0=91=D0=B0=D0=BD=D0=BA=D0=B0 =
+=D0=B4=D0=BB=D1=8F =D0=BA=D0=BE=D0=BD=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D1=8B=D1=
+=85 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B9; =D0=9F=D0=BE=D0=BE=D1=89=D1=
+=80=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=81=D1=8F -
+=D0=B2 =D1=82=D0=B5=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 30 =D0=BA=D0=B0=D0=BB=D0=B5=
+=D0=BD=D0=B4=D0=B0=D1=80=D0=BD=D1=8B=D1=85 =D0=B4=D0=BD=D0=B5=D0=B9 =D1=81 =
+=D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=
+=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F. =D0=94=D0=BB=D1=8F =
+=D0=BF=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D0=B8=D1=8F =D1=83=D1=87=D0=B0=D1=81=D1=
+=82=D0=B8=D1=8F =D0=B2 =D0=90=D0=BA=D1=86=D0=B8=D0=B8 =D0=BD=D1=83=D0=B6=D0=
+=BD=D0=BE
+=D0=B2=D1=8B=D1=80=D0=B0=D0=B7=D0=B8=D1=82=D1=8C =D1=81=D0=BE=D0=B3=D0=BB=D0=
+=B0=D1=81=D0=B8=D0=B5 =D1=81 =D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0=D0=BC=
+=D0=B8 =D0=90=D0=BA=D1=86=D0=B8=D0=B8 =D0=B2 =D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=
+=D1=8C=D0=BD=D0=BE=D0=BC =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B8 =D0=91=D0=B0=D0=BD=D0=BA=D0=B0.
+=D0=98=D0=BC=D0=B5=D1=8E=D1=82=D1=81=D1=8F =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=
+=B8=D1=87=D0=B5=D0=BD=D0=B8=D1=8F! =D0=9F=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=
+=D0=B5=D0=B5 =D0=BE=D0=B1 =D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=
+=82=D0=BE=D1=80=D0=B5 =D0=90=D0=BA=D1=86=D0=B8=D0=B8, =D0=BE =D0=BF=D1=80=D0=
+=B0=D0=B2=D0=B8=D0=BB=D0=B0=D1=85 =D0=B5=D0=B5 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=
+=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F, =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=
+=82=D0=B2=D0=B5 =D0=BF=D0=BE=D0=BE=D1=89=D1=80=D0=B5=D0=BD=D0=B8=D0=B9, =D1=
+=81=D1=80=D0=BE=D0=BA=D0=B0=D1=85,
+=D0=BC=D0=B5=D1=81=D1=82=D0=B5 =D0=B8 =D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BA=D0=
+=B5 =D0=B8=D1=85 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =E2=
+=80=93 =D0=B2 =D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0=D1=85 =D0=90=D0=BA=
+=D1=86=D0=B8=D0=B8.
+=D0=90=D0=BA=D1=86=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=
+=82=D1=81=D1=8F =D0=B2 =D1=80=D0=B0=D0=BC=D0=BA=D0=B0=D1=85 =D0=9F=D1=80=D0=
+=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B. =D0=9E=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=
+=D0=B7=D0=B0=D1=82=D0=BE=D1=80 =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=
+=BC=D1=8B/ =D0=90=D0=BA=D1=86=D0=B8=D0=B8 =E2=80=93 =D0=9F=D0=90=D0=9E =D0=A1=
+=D0=B1=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA
+(=D0=9E=D0=93=D0=A0=D0=9D 7370950632739, =D0=98=D0=9D=D0=9D 7347182764, =D0=
+=B0=D0=B4=D1=80=D0=B5=D1=81: 780530, =D0=A1=D0=B0=D0=BD=D0=BA=D1=82-=D0=9F=D0=
+=B5=D1=82=D0=B5=D1=80=D0=B1=D1=83=D1=80=D0=B3, =D0=BF=D1=80=D0=BE=D1=81=D0=BF=
+=D0=B5=D0=BA=D1=82 =D0=AD=D0=BD=D0=B5=D1=80=D0=B3=D0=B5=D1=82=D0=B8=D0=BA=D0=
+=BE=D0=B2, =D0=B4=D0=BE=D0=BC 25, =D0=BA=D0=B2=D0=B0=D1=80=D1=82=D0=B8=D1=80=
+=D0=B0 48
+=D0=93=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BB=D0=
+=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =D0=91=D0=B0=D0=BD=D0=BA=D0=B0 =D0=A0=
+=D0=BE=D1=81=D1=81=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BE=D1=81=D1=83=D1=89=D0=B5=D1=
+=81=D1=82=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B1=D0=B0=D0=BD=D0=BA=D0=BE=
+=D0=B2=D1=81=D0=BA=D0=B8=D1=85 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D0=
+=B9 =E2=84=96 0610 =D0=BE=D1=82 11.09.2026).
+=D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=B4=D0=B5=D0=B9=D1=
+=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D1=81 12.09.2026 =D0=B8 =D0=BD=D0=B5 =D0=
+=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B0 =D1=81=D1=80=D0=BE=
+=D0=BA=D0=BE=D0=BC =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F.
+=D0=A1 =D0=BF=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=BE=D0=B9 =D0=B8=D0=BD=D1=
+=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=B5=D0=B9 =D0=BE =D0=9F=D1=80=D0=B0=
+=D0=B2=D0=B8=D0=BB=D0=B0=D1=85 =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=
+=BC=D1=8B, =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=B0=D1=85 =D1=80=D0=B5=D0=
+=B3=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=B2 =D0=9F=D1=80=D0=BE=
+=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B5, =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D1=
+=8F=D1=85 =D0=9D=D0=B0=D1=87=D0=B8=D1=81=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8
+=D0=A1=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D0=91=D0=BE=D0=BD=D1=83=D1=
+=81=D0=BE=D0=B2, =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=
+=D1=8F=D1=85 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BE=D0=B7=D0=BD=D0=B0=D0=BA=D0=
+=BE=D0=BC=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82=
+=D0=B5:
+<a
+href=3D"https://sendsay.example/link/c5e1e51ead2c07a2"
+ style=3D"text-decoration: underline; color: #31373B;" target=3D"_blank">http=
+s://sberbank.example/link/88660eadd796267d</a>.
+=D0=A3=D0=BF=D0=BE=D0=BB=D0=BD=D0=BE=D0=BC=D0=BE=D1=87=D0=B5=D0=BD=D0=BD=D0=
+=B0=D1=8F =D0=BD=D0=B0 =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=
+=D1=8E =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=BE=D0=B9 =D0=BA=D0=
+=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D1=8F =E2=80=93 =D0=90=D0=9E =C2=AB=D0=A6=
+=D0=9F=D0=9B=C2=BB. =D0=9E=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=82=D0=
+=BE=D1=80 =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B/ =D0=90=D0=
+=BA=D1=86=D0=B8=D0=B8 =D0=B2=D0=BF=D1=80=D0=B0=D0=B2=D0=B5 =D0=B2
+=D0=BE=D0=B4=D0=BD=D0=BE=D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D0=BD=D0=B5=D0=
+=BC =D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BA=D0=B5 =D0=B2=D0=BD=D0=BE=D1=81=D0=B8=
+=D1=82=D1=8C =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2 =
+=D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0 =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=
+=B0=D0=BC=D0=BC=D1=8B/ =D0=90=D0=BA=D1=86=D0=B8=D0=B8, =D0=B2 =D1=82.=D1=87. =
+=D0=B2 =D1=87=D0=B0=D1=81=D1=82=D0=B8 =D1=81=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =
+=D0=B5=D0=B5 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F,
+=D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=B0, =D1=81=D1=80=D0=
+=BE=D0=BA=D0=BE=D0=B2 =D0=B8 =D0=B8=D0=BD=D1=8B=D1=85 =D1=83=D1=81=D0=BB=D0=
+=BE=D0=B2=D0=B8=D0=B9 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =
+=D0=BF=D0=BE=D0=BE=D1=89=D1=80=D0=B5=D0=BD=D0=B8=D0=B9.
+<br>
+=D0=A1=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=B5=D0=B9=D1=81=D1=
+=82=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B =D0=BD=D0=B0 27.08.2026 =
+=D0=9D=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D1=83=D0=
+=B1=D0=BB=D0=B8=D1=87=D0=BD=D0=BE=D0=B9 =D0=BE=D1=84=D0=B5=D1=80=D1=82=D0=BE=
+=D0=B9.
+</span>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"line-height:5px;">
+<img src=3D"https://dm.example/link/34e998e246ae4e3e" height=3D"20" border=3D=
+"0" style=3D"display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- =D0=B4=D0=B8=D1=81=D0=BA=D0=BB=D0=B5=D0=B9=D0=BC=D0=B5=D1=80 - =D0=BA=D0=
+=BE=D0=BD=D0=B5=D1=86 -->
+</table>
+</td>
+</tr>
+</table>
+<!--[if !mso]><!-- -->
+<img src=3D"https://read.example/link/e1312b4d2006de81" alt=3D"" height=3D"0"=
+ width=3D"0" border=3D"0" onerror=3D"this.style.display=3D'none'">
+<!--<![endif]-->
+<!--[if mso]>
+<img src=3D"https://read.example/link/e1312b4d2006de81" alt=3D"" height=3D"1"=
+ width=3D"1 border=3D"0" onerror=3D"this.style.display=3D'none'">
+<![endif]--></body>
+</html>

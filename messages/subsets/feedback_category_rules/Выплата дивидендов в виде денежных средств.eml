@@ -1,4 +1,4 @@
-Date: Wed, 29 Jul 2026 22:30:00 +0300
+Date: Wed, 26 Aug 2026 10:45:00 +0300
 From: =?utf-8?b?0KHQsdC10YAg0JjQvdCy0LXRgdGC0LjRhtC40Lg=?= <corp@sberbank.ru>
 Message-ID: <ce9e6ac7ca5e8aaff6f53b5a@mail.example>
 Subject: =?utf-8?b?0JLRi9C/0LvQsNGC0LAg0LTQuNCy0LjQtNC10L3QtNC+0LIg0LIg0LI=?=
@@ -14,9 +14,9 @@ Content-Type: multipart/related;
 	boundary="----=_Part_661012_831799102.1784777809549"
 
 ------=_Part_661012_831799102.1784777809549
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!DOCTYPE html> <html xmlns:xsi=3D"https://w3.example/link/bd40ddf61c5088f1" =
 xsi:schemaLocation=3D"https://w3.example/link/dda4ea99c7976808 "> <head> <met=
@@ -306,259 +306,259 @@ tica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-size:18px;line-hei=
 ght:1.2;"> <strong>=D0=94=D0=B0=D1=82=D0=B0 =D1=84=D0=B8=D0=BA=D1=81=D0=B0=D1=
 =86=D0=B8=D0=B8</strong> </div> </td> </tr> <tr> <td style=3D"text-align: lef=
 t;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica=
-, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;">  <span>07=
-.08.2026</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td sty=
-le=3D"height: 40px;" /> </tr> </tbody> </table> <!--erecord_date]--> <!--bPay=
-mentRate]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
-"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"top" style=
-=3D"width: 45px;"> <!-- Incm (Image) --> <img width=3D"45" style=3D"display: =
-block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0A=
-AAAqAgMAAABacTqxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXN8gjZBSimjP=
-/Lz8zqbw68AAAAJcEhZcwAADsEAAA7BAbiRa+0AAACNSURBVCjPjdHBDYAgDAVQN3AYB9CLZw/aeH=
-QUnYcpvDiCg1TjxdTUAgGJQeK/vaT9EMgYwablOYUnKVDmUgrApXnDj+W/q+FJlUDvV44IFuhCwBh=
-iCHawFcwGWJJgt1gMOIpLQJMGQq3bNoMDzDmng76BheywB61FwcFYHwfq/4gWJGDzhns0UuoTaroB=
-jwxax3zTa9MAAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D=
-"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
-" width=3D"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-bottom:=
- 5px;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, Helvet=
-ica, Arial, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> <stron=
-g>=D0=A0=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=82=
-=D1=8B =D0=BD=D0=B0 1 =D1=86=D0=B5=D0=BD=D0=BD=D1=83=D1=8E =D0=B1=D1=83=D0=BC=
-=D0=B0=D0=B3=D1=83 <br /> </strong> </div> </td> </tr> <tr> <td style=3D"text=
--align: left;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue=
-, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;"=
->  <span>37.64</span> <span> =D1=80.</span>  </div> </td> </tr> </tbody> </ta=
-ble> </td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </table><=
-!--ePaymentRate]--> <!--bInterestPeriod]--> <table border=3D"0" cellpadding=
-=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbod=
-y> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Cldr (Image) --> <img=
- width=3D"45" style=3D"display: block;width: 100%;" src=3D"data:image/png;bas=
-e64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1BA=
-ACxjwv8YQUAAAAMUExURTtGT3V9hHyEiuzu7m3zU0kAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEaSU=
-RBVCjPhdIxTsMwGIbhP44ACQ9hZ8gBQPIRyBEY8MLMzhGaI/QcVKoYGFAjYR+hE6wZGFAZyJDBVE4=
-/bGNHaSXEvz1J/FpxQsBQAOgFoB3sFAN3MAFS3mRSyusjKWuaTDVFTWz1cfq5XL2fL+cV5WOtrR1S=
-zYE1z7xpmseLZr5XO8RZ7Ffka2lC7W/kRuihaNUIe4DZP4E9LHZqAyyw1T7QC401FQjw+xBlAYvtb=
-NPRXR7gR5d4G1Ep4DWB+Qv1b826M7Es1vxp9TzClPfQIq4xl9w1RjDLUtoIeuJtPB1TahLr+Aq26E=
-jp+JjlbkmtKXtws8vB4TYNA8KXzRP0FTruv7aUt2iPX0j4/yAU3G2VgIpOMOI7U9A/LhBBLM0gfo0=
-AAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-le=
-ft: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
-100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <di=
-v style=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial,=
- sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9F=D0=
-=B5=D1=80=D0=B8=D0=BE=D0=B4, =D0=B7=D0=B0 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=
-=8B=D0=B9 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=87=D0=B8=D0=B2=D0=B0=D0=B5=D1=82=
-=D1=81=D1=8F =D0=B4=D0=BE=D1=85=D0=BE=D0=B4</strong> </div> </td> </tr> <tr> =
-<td style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-famil=
-y: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;=
-line-height:1.4;">  <span>=D0=B7=D0=B0 12 =D0=BC=D0=B5=D1=81=D1=8F=D1=86=D0=
-=B5=D0=B2 2026 =D0=B3.</span> </div> </td> </tr> </tbody> </table> </td> </tr=
-> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </table><!--eInterestPer=
-iod]--> <!--bplannedPaymentDate]--> <table border=3D"0" cellpadding=3D"0" cel=
-lspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <t=
-d valign=3D"top" style=3D"width: 45px;"> <!-- Cldr (Image) --> <img width=3D"=
-45" style=3D"display: block;width: 100%;" src=3D"data:image/png;base64,iVBORw=
-0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQU=
-AAAAMUExURTtGT3V9hHyEiuzu7m3zU0kAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEaSURBVCjPhdIx=
-TsMwGIbhP44ACQ9hZ8gBQPIRyBEY8MLMzhGaI/QcVKoYGFAjYR+hE6wZGFAZyJDBVE4/bGNHaSXEv=
-z1J/FpxQsBQAOgFoB3sFAN3MAFS3mRSyusjKWuaTDVFTWz1cfq5XL2fL+cV5WOtrR1SzYE1z7xpms=
-eLZr5XO8RZ7Ffka2lC7W/kRuihaNUIe4DZP4E9LHZqAyyw1T7QC401FQjw+xBlAYvtbNPRXR7gR5d=
-4G1Ep4DWB+Qv1b826M7Es1vxp9TzClPfQIq4xl9w1RjDLUtoIeuJtPB1TahLr+Aq26Ejp+Jjlbkmt=
-KXtws8vB4TYNA8KXzRP0FTruv7aUt2iPX0j4/yAU3G2VgIpOMOI7U9A/LhBBLM0gfo0AAAAASUVOR=
-K5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-left: 20px;"=
-> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%;"> <t=
-body> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <div style=3D=
-"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-seri=
-f;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9F=D0=BB=D0=B0=
-=D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=B4=D0=B0=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=D0=
-=BB=D0=B0=D1=82=D1=8B</strong> </div> </td> </tr> <tr> <td style=3D"text-alig=
-n: left;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, Hel=
-vetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;">  <s=
-pan>04.08.2026</span> *<br />* =D0=9F=D0=BB=D0=B0=D0=BD=D0=BE=D0=B2=D0=B0=D1=
-=8F =D0=B4=D0=B0=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=82=D1=8B =D0=
-=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D1=82=D1=8C=
-=D1=81=D1=8F =D0=BE=D1=82 =D1=84=D0=B0=D0=BA=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=
-=BA=D0=BE=D0=B9 </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td sty=
-le=3D"height: 40px;" /> </tr> </tbody> </table><!--eplannedPaymentDate]--> <!=
---^bReject]--> <!--bclient_deadline]--> <!--eclient_deadline]--> <!--^eReject=
-]--> <!--blink]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;">  <span>05=
+None09None2026</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <=
+td style=3D"height: 40px;" /> </tr> </tbody> </table> <!--erecord_date]--> <!=
+--bPaymentRate]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
 dth=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"top" =
-style=3D"width: 45px;"> <!-- Link (Image) --> <img width=3D"45" style=3D"disp=
+style=3D"width: 45px;"> <!-- Incm (Image) --> <img width=3D"45" style=3D"disp=
 lay: block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgA=
-AAC0AAAA1AgMAAACo8Yr/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXqEiDtG=
-TyykQvT19equZdQAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEjSURBVCjPddExasMwFAZgQ8ncpbpNj=
-AtdG1SQf7QEdBGDfR6foh1EoUsnXSJTNGgpUtWnFzlRh8h4+Pjh+el3l3PejUMu553ggfEKAUBWUL=
-CDrrAY6K0QJueImRExUOYMI40RUEExvAo0Oo2MYIQ6YwLDyjJNiqHA7XV88MoxRK8sonYzwxuBWVs=
-GggTMGGTBGCYE83SF9krckFRNcMF5uOCVUG8q/LFBf9AJyr58PNI6UyLQ4tBl0cCgQ1eQjiDoQdf5=
-PXTSQVnjnktVNM2bIC3BthDHGyL6DV2pquKzVJUqvglmS0qJZkvyQo1G/h85/y40IFV8LTR6X3Fa6=
-KOHBvatgUeD1CL/g2sRWqS7iPeBBrmUK3/WleFIZkNoEQVjXf4AJTu6S4qis7gAAAAASUVORK5CYI=
-I=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-left: 20px;"> <ta=
-ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%;"> <tbody>=
- <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <div style=3D"font=
--weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;col=
-or:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9C=D0=B0=D1=82=D0=B5=
-=D1=80=D0=B8=D0=B0=D0=BB=D1=8B</strong> </div> </td> </tr> <tr> <td style=3D"=
-text-align: left;"> <div style=3D"font-weight: normal;font-family: Helvetica =
-Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1=
-.4;">  <a style=3D"word-break:break-all;display: table-cell;" href=3D"https:/=
-/nsd.example/link/be609c78c2a86cd2">https://nsd.example/link/be609c78c2a86cd2=
-</a> =D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D0=BC=D0=BE=D0=
-=B3=D1=83=D1=82 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D1=8F=D1=82=D1=8C=D1=81=
-=D1=8F =D0=98=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=
-=83=D1=80=D0=BD=D0=BE=D0=B9 =D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=
-=D1=86=D0=B8=D0=B5=D0=B9, =D0=B2 =D1=82=D0=BE=D0=BC =D1=87=D0=B8=D1=81=D0=BB=
-=D0=B5 =D0=BF=D0=BE =D0=B8=D1=82=D0=BE=D0=B3=D0=B0=D0=BC =D0=BA=D0=BE=D1=80=
-=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=
-=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F </div> </td> </tr> </tbody> </table> =
-</td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </table><!--el=
-ink]--><!--bKindOfParticip]--> <table border=3D"0" cellpadding=3D"0" cellspac=
-ing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td val=
-ign=3D"top" style=3D"width: 45px;"> <!-- Grph (Image) --> <img width=3D"45" s=
-tyle=3D"display: block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgo=
-AAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAM=
-UExURTpGTnV9g3yEievs7WD2wMUAAAAJcEhZcwAADsIAAA7CARUoSoAAAADjSURBVCjPrdHLjcIwE=
-AbgP/iQA4cUwIHL3lNCkGhkO6AEuxTOmyKY7YAS3MHOgZWMBB7GjhO8SNx2FEX5NK/EwQVzbAi0oC=
-HsFsBhJSXieQczQxgVPLD6muP47AY+a2hPs5T9GfA6zcgpbSyZc6sPblsATaTqhAusBKD0+E4vGqZ=
-poRVnuZsQERu5mYzrwX20vyeMqSf0HlseyHBGgPWW04uOoZdR2MZRIQrdYfMeBd07HvK0nwxvp9EJ=
-a66QM2nPtf+OHdu9vP/s1zPQMLf6+GKNYf5JuZym+z/BPUFlxVsIPQAI8UFkKgSUZgAAAABJRU5Er=
-kJggg=3D=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-left: 20px=
-;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%;"> =
-<tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <div style=
-=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-s=
-erif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=92=D0=B8=D0=
-=B4 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=
-=D0=B3=D0=BE =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F</strong> </div>=
- </td> </tr> <tr> <td style=3D"text-align: left;"> <div style=3D"font-weight:=
- normal;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#7673=
-62;font-size:16px;line-height:1.4;">  <span>=D0=94=D0=B5=D0=B9=D1=81=D1=82=D0=
-=B2=D0=B8=D0=B9 =D1=81=D0=BE =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D1=8B =D0=
-=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=B0 =D1=86=D0=B5=D0=BD=D0=BD=
-=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=B3 =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=
-=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F (=D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=
-=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=
-=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B5 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=
-=B8=D0=B5).</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td =
-style=3D"height: 40px;" /> </tr> </tbody> </table><!--eKindOfParticip]--> <!-=
--^eReject]--> <!--^bReject]--> <!--bOrderParticipation]--> <table border=3D"0=
-" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: f=
-ixed;"> <tbody> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Rule (Im=
-age) --> <img width=3D"45" style=3D"display: block;width: 100%;" src=3D"data:=
-image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c=
-6QAAAARnQU1BAACxjwv8YQUAAAAMUExURThDTHZ+hH2EivT19c01jsUAAAAJcEhZcwAADsIAAA7CA=
-RUoSoAAAAC7SURBVCjPvdE9DsIgFADgJ8Yw1hv0CBxBLtHrSHdv0sUjgDdwce/sIgND09A++SmUJs=
-Y4+RbywePl8YAYEoo4tQWqPiwEUzjvP0M7zPLZdXLBwBQAW9Iy/MkoHk1zdRjbogCqb1gKWN9ORI1=
-mBcPQabqjhF7BccVMClhaYKgybqhZBq+VSJhgx+MT8ILm4OcSng3yzhSNMEC5tFWEOvqcVwCBM6dp=
-VG67ZxkuW2aIYqJkM94/YfPbvwTwNxUWS2lCmuzWAAAAAElFTkSuQmCC" alt=3D"" /> </td> <=
-td valign=3D"top" style=3D"padding-left: 20px;"> <table border=3D"0" cellpadd=
-ing=3D"0" cellspacing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-a=
-lign: left;padding-bottom: 5px;"> <div style=3D"font-weight: normal;font-fami=
-ly: Helvetica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-size:18px=
-;line-height:1.2;"> <strong>=D0=9F=D0=BE=D1=80=D1=8F=D0=B4=D0=BE=D0=BA =D1=83=
-=D1=87=D0=B0=D1=81=D1=82=D0=B8=D1=8F =D0=B2 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=
-=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=BC =D0=B4=D0=B5=D0=B9=D1=81=D1=82=
-=D0=B2=D0=B8=D0=B8</strong> </div> </td> </tr> <tr> <td style=3D"text-align: =
-left;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, Helvet=
-ica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;">  <span=
->=D0=9F=D1=80=D0=B0=D0=B2=D0=BE =D0=BD=D0=B0 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=
-=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=82=D1=8B =D0=B8=D0=
-=BC=D0=B5=D1=8E=D1=82 =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D1=8B =
-=D1=86=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=B3, =D0=BA=
-=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=
-=81=D1=8F =D1=82=D0=B0=D0=BA=D0=BE=D0=B2=D1=8B=D0=BC=D0=B8 =D0=BF=D0=BE =D1=
-=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D1=8E =D0=BD=D0=B0 =D0=94=D0=B0=
-=D1=82=D1=83 =D1=84=D0=B8=D0=BA=D1=81=D0=B0=D1=86=D0=B8=D0=B8 (=D0=BA=D0=BE=
-=D0=BD=D0=B5=D1=86 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=
-=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BD=D1=8F)</span> </div> </td> </tr> </tbody> =
-</table> </td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </tab=
-le><!--eOrderParticipation]--> <!--bTariff]--> <!--eTariff]--> <!--^eReject]-=
--> <!--bTax]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
-=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"top" sty=
-le=3D"width: 45px;"> <!-- Tax (Image) --> <img width=3D"45" style=3D"display:=
- block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0=
-AAAA3AgMAAADlOSv0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXuDiDxHUDKn=
-R/b39/dzg4EAAAAJcEhZcwAADsIAAA7CARUoSoAAAAE7SURBVCjPlZExTsUwDIaNEDNCIhfgBEjvA=
-GVhDk+J1bEnQdk5CYKBK0RCmZlyDzJ0S2Rst3npioeon347/x8XSMpMckaFgm5AQj8gn3GAmXRoB8=
-oHhb4P8PgzABEvM4nB71BRym6w4svpCucNjNfWSaBKh54MRaNQdgJJE1PxAsYqVJwY1E9ihAjVb9+=
-UbIQy77AuEVZHv7d6g2Ow6mqmNkdIliQzUvURcmiIofEkMkzNJVvY2UQwVJbVcjMZYGhutSZwOgCk=
-5k2QsAr80ldxzk/gZR8yT0khOZnfQRJf2riRhtI8v7MrxWUMXUnW4NKVHPBmEUWWjdU3J4osxteZI=
-Smwvy9dSQsn6jM5kOFVs/Kh/vITksKJ77imXekrPcI/FK6von9/g892gPc64O2B7p7vz88ANCoegO=
-IfH37ije7HWAAAAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=
-=3D"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=
+AAC0AAAAqAgMAAABacTqxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXN8gjZB=
+SimjP/Lz8zqbw68AAAAJcEhZcwAADsEAAA7BAbiRa+0AAACNSURBVCjPjdHBDYAgDAVQN3AYB9CLZ=
+w/aeHQUnYcpvDiCg1TjxdTUAgGJQeK/vaT9EMgYwablOYUnKVDmUgrApXnDj+W/q+FJlUDvV44IFu=
+hCwBhiCHawFcwGWJJgt1gMOIpLQJMGQq3bNoMDzDmng76BheywB61FwcFYHwfq/4gWJGDzhns0Uuo=
+TaroBjwxax3zTa9MAAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" sty=
+le=3D"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=
 =3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-bo=
 ttom: 5px;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, H=
 elvetica, Arial, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> <=
-strong>=D0=9D=D0=B0=D0=BB=D0=BE=D0=B3=D0=B8</strong> </div> </td> </tr> <tr> =
-<td style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-famil=
-y: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;=
-line-height:1.4;">  <span>=D0=94=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=
-=80=D0=B8=D0=B9 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0=
-=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D1=8B=D0=BC =D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=
-=BE=D0=BC =D0=BF=D0=BE =D0=B0=D0=BA=D1=86=D0=B8=D1=8F=D0=BC =D1=80=D0=BE=D1=
-=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D1=85 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=
-=D0=BD=D0=B8=D0=B9.<br/>=D0=A1 =D1=84=D0=B8=D0=B7=D0=B8=D1=87=D0=B5=D1=81=D0=
-=BA=D0=B8=D1=85 =D0=BB=D0=B8=D1=86 =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3 =D0=B1=D1=
-=83=D0=B4=D0=B5=D1=82 =D1=83=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD =D0=B8 =D0=
-=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=
-=D1=85 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B9 =D0=BD=D0=B5 =D1=82=
-=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F.<br/>=D0=A1=D1=82=D0=B0=D0=
-=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D0=B0=D1=8F =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=
-=D0=BE=D0=B2=D0=B0=D1=8F =D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=B4=D0=BB=D1=
-=8F =D1=84=D0=B8=D0=B7=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D1=85 =D0=BB=D0=B8=
-=D1=86-=D1=80=D0=B5=D0=B7=D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=A0=D0=
-=A4 - 13%. =D0=95=D1=81=D0=BB=D0=B8 =D0=BE=D0=B1=D1=89=D0=B8=D0=B9 =D1=84=D0=
-=B8=D0=BD=D0=B0=D0=BD=D1=81=D0=BE=D0=B2=D1=8B=D0=B9 =D1=80=D0=B5=D0=B7=D1=83=
-=D0=BB=D1=8C=D1=82=D0=B0=D1=82 =D1=81=D0=B2=D1=8B=D1=88=D0=B5 2,4 =D0=BC=D0=
-=BB=D0=BD.=D1=80=D1=83=D0=B1., =D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=9D=D0=
-=94=D0=A4=D0=9B =D0=B4=D0=BB=D1=8F =D1=81=D1=83=D0=BC=D0=BC=D1=8B =D0=BF=D1=
-=80=D0=B5=D0=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=B8=D1=8F =D0=B1=D1=83=D0=B4=D0=B5=
-=D1=82 15%.</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td =
-style=3D"height: 40px;" /> </tr> </tbody> </table><!--eTax]--> <!--bCondition=
-s]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
-style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"top" style=3D"widt=
-h: 45px;"> <!-- Inf (Image) --> <img width=3D"45" style=3D"display: block;wid=
-th: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAkAgMAA=
-ABge1vBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXqDiDhETCylQu/w8KnbNJ=
-kAAAAJcEhZcwAADsIAAA7CARUoSoAAAACoSURBVCjPfZCxDcIwEEUPMQAjhQ2MZFkpbxSPwB6ewkV=
-o6LMEXZDSIFtHfHeOTUF+9/T8/aWD5Lb4VwjhHiEXwKcAG/tRY0nyLuYH8J/Jm/Gdydg604oR4JyG=
-YmbnZ+dGotJ5OKqQ7DJSecaAurQY/m3YYd9RIzsMdUeM7khHd8TojnSOdnrTwQ0kJ6N34xi9aIUEN=
-ZcI1HIEXCX+88qAlBtYWgVaheIX/kwltDf6eNAAAAAASUVORK5CYII=3D" alt=3D"" /> </td> =
-<td valign=3D"top" style=3D"padding-left: 20px;"> <table border=3D"0" cellpad=
-ding=3D"0" cellspacing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-=
-align: left;padding-bottom: 5px;"> <div style=3D"font-weight: normal;font-fam=
-ily: Helvetica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-size:18p=
-x;line-height:1.2;"> <strong>=D0=A3=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D1=8F =D0=
-=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B3=
-=D0=BE =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F</strong> </div> </td>=
- </tr> <tr> <td style=3D"text-align: left;"> <div style=3D"font-weight: norma=
-l;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;fon=
-t-size:16px;line-height:1.4;">  <span>=D0=94=D0=BE=D1=85=D0=BE=D0=B4 =D0=BF=
-=D0=B5=D1=80=D0=B5=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=
-=B2 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D0=B8=D0=B8 =
-=D1=81 =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC =D0=B2 =D0=B0=
-=D0=BD=D0=BA=D0=B5=D1=82=D0=B5 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=D0=B0 =D1=
-=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BE=D0=BC =D0=BF=D0=BE=D0=BB=D1=83=D1=87=
-=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=BE=D1=85=D0=BE=D0=B4=D0=BE=D0=B2 (=D0=BD=
-=D0=B0 =D1=81=D1=87=D0=B5=D1=82, =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=
-=D1=8B=D0=B9 =D0=B2 =D0=B0=D0=BD=D0=BA=D0=B5=D1=82=D0=B5/=D0=BD=D0=B0 =D0=B1=
-=D1=80=D0=BE=D0=BA=D0=B5=D1=80=D1=81=D0=BA=D0=B8=D0=B9 =D1=81=D1=87=D0=B5=D1=
-=82).</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td style=
-=3D"height: 40px;" /> </tr> </tbody> </table><!--eConditions]--> <!--bSection=
-Exp]--> <!--bExpenses]--> <!--eExpenses]--> <!--eSectionExp]--> <!--bSectionE=
-xDiv]--> <!--eSectionExDiv]--> <!--bevent_reference]--> <table border=3D"0" c=
-ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixe=
-d;"> <tbody> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Grph (Image=
-) --> <img width=3D"45" style=3D"display: block;width: 100%;" src=3D"data:ima=
-ge/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QA=
-AAARnQU1BAACxjwv8YQUAAAAMUExURTpGTnV9g3yEievs7WD2wMUAAAAJcEhZcwAADsIAAA7CARUo=
-SoAAAADjSURBVCjPrdHLjcIwEAbgP/iQA4cUwIHL3lNCkGhkO6AEuxTOmyKY7YAS3MHOgZWMBB7Gj=
-hO8SNx2FEX5NK/EwQVzbAi0oCHsFsBhJSXieQczQxgVPLD6muP47AY+a2hPs5T9GfA6zcgpbSyZc6=
-sPblsATaTqhAusBKD0+E4vGqZpoRVnuZsQERu5mYzrwX20vyeMqSf0HlseyHBGgPWW04uOoZdR2MZ=
-RIQrdYfMeBd07HvK0nwxvp9EJa66QM2nPtf+OHdu9vP/s1zPQMLf6+GKNYf5JuZym+z/BPUFlxVsI=
-PQAI8UFkKgSUZgAAAABJRU5ErkJggg=3D=3D" alt=3D"" /> </td> <td valign=3D"top" st=
-yle=3D"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacin=
-g=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-b=
-ottom: 5px;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, =
-Helvetica, Arial, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> =
-<strong>=D0=A0=D0=B5=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=81 =D0=BA=D0=BE=D1=80=
+strong>=D0=A0=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=
+=82=D1=8B =D0=BD=D0=B0 1 =D1=86=D0=B5=D0=BD=D0=BD=D1=83=D1=8E =D0=B1=D1=83=D0=
+=BC=D0=B0=D0=B3=D1=83 <br /> </strong> </div> </td> </tr> <tr> <td style=3D"t=
+ext-align: left;"> <div style=3D"font-weight: normal;font-family: Helvetica N=
+eue, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.=
+4;">  <span>37.64</span> <span> =D1=80.</span>  </div> </td> </tr> </tbody> <=
+/table> </td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </tabl=
+e><!--ePaymentRate]--> <!--bInterestPeriod]--> <table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbo=
+dy> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Cldr (Image) --> <im=
+g width=3D"45" style=3D"display: block;width: 100%;" src=3D"data:image/png;ba=
+se64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1B=
+AACxjwv8YQUAAAAMUExURTtGT3V9hHyEiuzu7m3zU0kAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEaS=
+URBVCjPhdIxTsMwGIbhP44ACQ9hZ8gBQPIRyBEY8MLMzhGaI/QcVKoYGFAjYR+hE6wZGFAZyJDBVE=
+4/bGNHaSXEvz1J/FpxQsBQAOgFoB3sFAN3MAFS3mRSyusjKWuaTDVFTWz1cfq5XL2fL+cV5WOtrR1=
+SzYE1z7xpmseLZr5XO8RZ7Ffka2lC7W/kRuihaNUIe4DZP4E9LHZqAyyw1T7QC401FQjw+xBlAYvt=
+bNPRXR7gR5d4G1Ep4DWB+Qv1b826M7Es1vxp9TzClPfQIq4xl9w1RjDLUtoIeuJtPB1TahLr+Aq26=
+Ejp+JjlbkmtKXtws8vB4TYNA8KXzRP0FTruv7aUt2iPX0j4/yAU3G2VgIpOMOI7U9A/LhBBLM0gfo=
+0AAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-l=
+eft: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <d=
+iv style=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial=
+, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9F=
+=D0=B5=D1=80=D0=B8=D0=BE=D0=B4, =D0=B7=D0=B0 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B9 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=87=D0=B8=D0=B2=D0=B0=D0=B5=D1=
+=82=D1=81=D1=8F =D0=B4=D0=BE=D1=85=D0=BE=D0=B4</strong> </div> </td> </tr> <t=
+r> <td style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-fa=
+mily: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16=
+px;line-height:1.4;">  <span>=D0=B7=D0=B0 12 =D0=BC=D0=B5=D1=81=D1=8F=D1=86=
+=D0=B5=D0=B2 2026 =D0=B3.</span> </div> </td> </tr> </tbody> </table> </td> <=
+/tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </table><!--eInterest=
+Period]--> <!--bplannedPaymentDate]--> <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr>=
+ <td valign=3D"top" style=3D"width: 45px;"> <!-- Cldr (Image) --> <img width=
+=3D"45" style=3D"display: block;width: 100%;" src=3D"data:image/png;base64,iV=
+BORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv=
+8YQUAAAAMUExURTtGT3V9hHyEiuzu7m3zU0kAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEaSURBVCjP=
+hdIxTsMwGIbhP44ACQ9hZ8gBQPIRyBEY8MLMzhGaI/QcVKoYGFAjYR+hE6wZGFAZyJDBVE4/bGNHa=
+SXEvz1J/FpxQsBQAOgFoB3sFAN3MAFS3mRSyusjKWuaTDVFTWz1cfq5XL2fL+cV5WOtrR1SzYE1z7=
+xpmseLZr5XO8RZ7Ffka2lC7W/kRuihaNUIe4DZP4E9LHZqAyyw1T7QC401FQjw+xBlAYvtbNPRXR7=
+gR5d4G1Ep4DWB+Qv1b826M7Es1vxp9TzClPfQIq4xl9w1RjDLUtoIeuJtPB1TahLr+Aq26Ejp+Jjl=
+bkmtKXtws8vB4TYNA8KXzRP0FTruv7aUt2iPX0j4/yAU3G2VgIpOMOI7U9A/LhBBLM0gfo0AAAAAS=
+UVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-left: 20=
+px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%;"=
+> <tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <div styl=
+e=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-=
+serif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9F=D0=BB=D0=
+=B0=D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=B4=D0=B0=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=
+=D0=BB=D0=B0=D1=82=D1=8B</strong> </div> </td> </tr> <tr> <td style=3D"text-a=
+lign: left;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;"> =
+ <span>02None09None2026</span> *<br />* =D0=9F=D0=BB=D0=B0=D0=BD=D0=BE=D0=B2=
+=D0=B0=D1=8F =D0=B4=D0=B0=D1=82=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=82=D1=
+=8B =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D1=82=
+=D1=8C=D1=81=D1=8F =D0=BE=D1=82 =D1=84=D0=B0=D0=BA=D1=82=D0=B8=D1=87=D0=B5=D1=
+=81=D0=BA=D0=BE=D0=B9 </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <=
+td style=3D"height: 40px;" /> </tr> </tbody> </table><!--eplannedPaymentDate]=
+--> <!--^bReject]--> <!--bclient_deadline]--> <!--eclient_deadline]--> <!--^e=
+Reject]--> <!--blink]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D=
+"top" style=3D"width: 45px;"> <!-- Link (Image) --> <img width=3D"45" style=
+=3D"display: block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAA=
+NSUhEUgAAAC0AAAA1AgMAAACo8Yr/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExU=
+RXqEiDtGTyykQvT19equZdQAAAAJcEhZcwAADsIAAA7CARUoSoAAAAEjSURBVCjPddExasMwFAZgQ=
+8ncpbpNjAtdG1SQf7QEdBGDfR6foh1EoUsnXSJTNGgpUtWnFzlRh8h4+Pjh+el3l3PejUMu553ggf=
+EKAUBWULCDrrAY6K0QJueImRExUOYMI40RUEExvAo0Oo2MYIQ6YwLDyjJNiqHA7XV88MoxRK8sonY=
+zwxuBWVsGggTMGGTBGCYE83SF9krckFRNcMF5uOCVUG8q/LFBf9AJyr58PNI6UyLQ4tBl0cCgQ1eQ=
+jiDoQdf5PXTSQVnjnktVNM2bIC3BthDHGyL6DV2pquKzVJUqvglmS0qJZkvyQo1G/h85/y40IFV8L=
+TR6X3Fa6KOHBvatgUeD1CL/g2sRWqS7iPeBBrmUK3/WleFIZkNoEQVjXf4AJTu6S4qis7gAAAAASU=
+VORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-left: 20p=
+x;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%;">=
+ <tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <div style=
+=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-s=
+erif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=9C=D0=B0=D1=
+=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B</strong> </div> </td> </tr> <tr> <td =
+style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-family: H=
+elvetica Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line=
+-height:1.4;">  <a style=3D"word-break:break-all;display: table-cell;" href=
+=3D"https://nsd.example/link/be609c78c2a86cd2">https://nsd.example/link/be609=
+c78c2a86cd2</a> =D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D0=BC=
+=D0=BE=D0=B3=D1=83=D1=82 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D1=8F=D1=82=D1=
+=8C=D1=81=D1=8F =D0=98=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=
+=D1=82=D1=83=D1=80=D0=BD=D0=BE=D0=B9 =D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=
+=B7=D0=B0=D1=86=D0=B8=D0=B5=D0=B9, =D0=B2 =D1=82=D0=BE=D0=BC =D1=87=D0=B8=D1=
+=81=D0=BB=D0=B5 =D0=BF=D0=BE =D0=B8=D1=82=D0=BE=D0=B3=D0=B0=D0=BC =D0=BA=D0=
+=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B3=D0=BE =
+=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F </div> </td> </tr> </tbody> =
+</table> </td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody> </tab=
+le><!--elink]--><!--bKindOfParticip]--> <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr=
+> <td valign=3D"top" style=3D"width: 45px;"> <!-- Grph (Image) --> <img width=
+=3D"45" style=3D"display: block;width: 100%;" src=3D"data:image/png;base64,iV=
+BORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv=
+8YQUAAAAMUExURTpGTnV9g3yEievs7WD2wMUAAAAJcEhZcwAADsIAAA7CARUoSoAAAADjSURBVCjP=
+rdHLjcIwEAbgP/iQA4cUwIHL3lNCkGhkO6AEuxTOmyKY7YAS3MHOgZWMBB7GjhO8SNx2FEX5NK/Ew=
+QVzbAi0oCHsFsBhJSXieQczQxgVPLD6muP47AY+a2hPs5T9GfA6zcgpbSyZc6sPblsATaTqhAusBK=
+D0+E4vGqZpoRVnuZsQERu5mYzrwX20vyeMqSf0HlseyHBGgPWW04uOoZdR2MZRIQrdYfMeBd07HvK=
+0nwxvp9EJa66QM2nPtf+OHdu9vP/s1zPQMLf6+GKNYf5JuZym+z/BPUFlxVsIPQAI8UFkKgSUZgAA=
+AABJRU5ErkJggg=3D=3D" alt=3D"" /> </td> <td valign=3D"top" style=3D"padding-l=
+eft: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding-bottom: 5px;"> <d=
+iv style=3D"font-weight: normal;font-family: Helvetica Neue, Helvetica, Arial=
+, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"> <strong>=D0=92=
+=D0=B8=D0=B4 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=
+=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F</stron=
+g> </div> </td> </tr> <tr> <td style=3D"text-align: left;"> <div style=3D"fon=
+t-weight: normal;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;co=
+lor:#767362;font-size:16px;line-height:1.4;">  <span>=D0=94=D0=B5=D0=B9=D1=81=
+=D1=82=D0=B2=D0=B8=D0=B9 =D1=81=D0=BE =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D1=
+=8B =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=B0 =D1=86=D0=B5=D0=BD=
+=D0=BD=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=B3 =D0=BD=D0=B5 =D1=82=D1=80=
+=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F (=D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=
+=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=
+=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B5 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=
+=B2=D0=B8=D0=B5).</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr=
+> <td style=3D"height: 40px;" /> </tr> </tbody> </table><!--eKindOfParticip]-=
+-> <!--^eReject]--> <!--^bReject]--> <!--bOrderParticipation]--> <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-lay=
+out: fixed;"> <tbody> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Ru=
+le (Image) --> <img width=3D"45" style=3D"display: block;width: 100%;" src=3D=
+"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0=
+IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURThDTHZ+hH2EivT19c01jsUAAAAJcEhZcwAADsI=
+AAA7CARUoSoAAAAC7SURBVCjPvdE9DsIgFADgJ8Yw1hv0CBxBLtHrSHdv0sUjgDdwce/sIgND09A+=
++SmUJsY4+RbywePl8YAYEoo4tQWqPiwEUzjvP0M7zPLZdXLBwBQAW9Iy/MkoHk1zdRjbogCqb1gKW=
+N9ORI1mBcPQabqjhF7BccVMClhaYKgybqhZBq+VSJhgx+MT8ILm4OcSng3yzhSNMEC5tFWEOvqcVw=
+CBM6dpVG67ZxkuW2aIYqJkM94/YfPbvwTwNxUWS2lCmuzWAAAAAElFTkSuQmCC" alt=3D"" /> <=
+/td> <td valign=3D"top" style=3D"padding-left: 20px;"> <table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"=
+text-align: left;padding-bottom: 5px;"> <div style=3D"font-weight: normal;fon=
+t-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-siz=
+e:18px;line-height:1.2;"> <strong>=D0=9F=D0=BE=D1=80=D1=8F=D0=B4=D0=BE=D0=BA =
+=D1=83=D1=87=D0=B0=D1=81=D1=82=D0=B8=D1=8F =D0=B2 =D0=BA=D0=BE=D1=80=D0=BF=D0=
+=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=BC =D0=B4=D0=B5=D0=B9=D1=81=
+=D1=82=D0=B2=D0=B8=D0=B8</strong> </div> </td> </tr> <tr> <td style=3D"text-a=
+lign: left;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif;color:#767362;font-size:16px;line-height:1.4;"> =
+ <span>=D0=9F=D1=80=D0=B0=D0=B2=D0=BE =D0=BD=D0=B0 =D0=BF=D0=BE=D0=BB=D1=83=
+=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B2=D1=8B=D0=BF=D0=BB=D0=B0=D1=82=D1=8B =D0=
+=B8=D0=BC=D0=B5=D1=8E=D1=82 =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=
+=D1=8B =D1=86=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=B3, =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D1=8E=D1=
+=82=D1=81=D1=8F =D1=82=D0=B0=D0=BA=D0=BE=D0=B2=D1=8B=D0=BC=D0=B8 =D0=BF=D0=BE=
+ =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D1=8E =D0=BD=D0=B0 =D0=94=
+=D0=B0=D1=82=D1=83 =D1=84=D0=B8=D0=BA=D1=81=D0=B0=D1=86=D0=B8=D0=B8 (=D0=BA=
+=D0=BE=D0=BD=D0=B5=D1=86 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D0=BE=D0=
+=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BD=D1=8F)</span> </div> </td> </tr> </t=
+body> </table> </td> </tr> <tr> <td style=3D"height: 40px;" /> </tr> </tbody>=
+ </table><!--eOrderParticipation]--> <!--bTariff]--> <!--eTariff]--> <!--^eRe=
+ject]--> <!--bTax]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"to=
+p" style=3D"width: 45px;"> <!-- Tax (Image) --> <img width=3D"45" style=3D"di=
+splay: block;width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEU=
+gAAAC0AAAA3AgMAAADlOSv0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXuDiD=
+xHUDKnR/b39/dzg4EAAAAJcEhZcwAADsIAAA7CARUoSoAAAAE7SURBVCjPlZExTsUwDIaNEDNCIhf=
+gBEjvAGVhDk+J1bEnQdk5CYKBK0RCmZlyDzJ0S2Rst3npioeon347/x8XSMpMckaFgm5AQj8gn3GA=
+mXRoB8oHhb4P8PgzABEvM4nB71BRym6w4svpCucNjNfWSaBKh54MRaNQdgJJE1PxAsYqVJwY1E9ih=
+AjVb9+UbIQy77AuEVZHv7d6g2Ow6mqmNkdIliQzUvURcmiIofEkMkzNJVvY2UQwVJbVcjMZYGhutS=
+ZwOgCk5k2QsAr80ldxzk/gZR8yT0khOZnfQRJf2riRhtI8v7MrxWUMXUnW4NKVHPBmEUWWjdU3J4o=
+sxteZISmwvy9dSQsn6jM5kOFVs/Kh/vITksKJ77imXekrPcI/FK6von9/g892gPc64O2B7p7vz88A=
+NCoegOIfH37ije7HWAAAAAAASUVORK5CYII=3D" alt=3D"" /> </td> <td valign=3D"top" =
+style=3D"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding=
+-bottom: 5px;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue=
+, Helvetica, Arial, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"=
+> <strong>=D0=9D=D0=B0=D0=BB=D0=BE=D0=B3=D0=B8</strong> </div> </td> </tr> <t=
+r> <td style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-fa=
+mily: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;font-size:16=
+px;line-height:1.4;">  <span>=D0=94=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=
+=D1=80=D0=B8=D0=B9 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=
+=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D1=8B=D0=BC =D0=B0=D0=B3=D0=B5=D0=BD=D1=82=
+=D0=BE=D0=BC =D0=BF=D0=BE =D0=B0=D0=BA=D1=86=D0=B8=D1=8F=D0=BC =D1=80=D0=BE=
+=D1=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D1=85 =D0=BA=D0=BE=D0=BC=D0=BF=D0=
+=B0=D0=BD=D0=B8=D0=B9.<br/>=D0=A1 =D1=84=D0=B8=D0=B7=D0=B8=D1=87=D0=B5=D1=81=
+=D0=BA=D0=B8=D1=85 =D0=BB=D0=B8=D1=86 =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3 =D0=B1=
+=D1=83=D0=B4=D0=B5=D1=82 =D1=83=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD =D0=B8 =
+=D0=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=
+=8B=D1=85 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B9 =D0=BD=D0=B5 =D1=
+=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F.<br/>=D0=A1=D1=82=D0=B0=
+=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D0=B0=D1=8F =D0=BD=D0=B0=D0=BB=D0=BE=D0=
+=B3=D0=BE=D0=B2=D0=B0=D1=8F =D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=B4=D0=BB=
+=D1=8F =D1=84=D0=B8=D0=B7=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D1=85 =D0=BB=D0=
+=B8=D1=86-=D1=80=D0=B5=D0=B7=D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=A0=
+=D0=A4 - 13%. =D0=95=D1=81=D0=BB=D0=B8 =D0=BE=D0=B1=D1=89=D0=B8=D0=B9 =D1=84=
+=D0=B8=D0=BD=D0=B0=D0=BD=D1=81=D0=BE=D0=B2=D1=8B=D0=B9 =D1=80=D0=B5=D0=B7=D1=
+=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82 =D1=81=D0=B2=D1=8B=D1=88=D0=B5 2,4 =D0=BC=
+=D0=BB=D0=BD.=D1=80=D1=83=D0=B1., =D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=9D=
+=D0=94=D0=A4=D0=9B =D0=B4=D0=BB=D1=8F =D1=81=D1=83=D0=BC=D0=BC=D1=8B =D0=BF=
+=D1=80=D0=B5=D0=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=B8=D1=8F =D0=B1=D1=83=D0=B4=D0=
+=B5=D1=82 15%.</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <=
+td style=3D"height: 40px;" /> </tr> </tbody> </table><!--eTax]--> <!--bCondit=
+ions]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"table-layout: fixed;"> <tbody> <tr> <td valign=3D"top" style=3D"w=
+idth: 45px;"> <!-- Inf (Image) --> <img width=3D"45" style=3D"display: block;=
+width: 100%;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAkAg=
+MAAABge1vBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURXqDiDhETCylQu/w8Kn=
+bNJkAAAAJcEhZcwAADsIAAA7CARUoSoAAAACoSURBVCjPfZCxDcIwEEUPMQAjhQ2MZFkpbxSPwB6e=
+wkVo6LMEXZDSIFtHfHeOTUF+9/T8/aWD5Lb4VwjhHiEXwKcAG/tRY0nyLuYH8J/Jm/Gdydg604oR4=
+JyGYmbnZ+dGotJ5OKqQ7DJSecaAurQY/m3YYd9RIzsMdUeM7khHd8TojnSOdnrTwQ0kJ6N34xi9aI=
+UENZcI1HIEXCX+88qAlBtYWgVaheIX/kwltDf6eNAAAAAASUVORK5CYII=3D" alt=3D"" /> </t=
+d> <td valign=3D"top" style=3D"padding-left: 20px;"> <table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"te=
+xt-align: left;padding-bottom: 5px;"> <div style=3D"font-weight: normal;font-=
+family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-size:=
+18px;line-height:1.2;"> <strong>=D0=A3=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D1=8F =
+=D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=
+=B3=D0=BE =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F</strong> </div> </=
+td> </tr> <tr> <td style=3D"text-align: left;"> <div style=3D"font-weight: no=
+rmal;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#767362;=
+font-size:16px;line-height:1.4;">  <span>=D0=94=D0=BE=D1=85=D0=BE=D0=B4 =D0=
+=BF=D0=B5=D1=80=D0=B5=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =
+=D0=B2 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D0=B8=D0=
+=B8 =D1=81 =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC =D0=B2 =D0=
+=B0=D0=BD=D0=BA=D0=B5=D1=82=D0=B5 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=D0=B0 =
+=D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BE=D0=BC =D0=BF=D0=BE=D0=BB=D1=83=D1=
+=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=BE=D1=85=D0=BE=D0=B4=D0=BE=D0=B2 (=D0=
+=BD=D0=B0 =D1=81=D1=87=D0=B5=D1=82, =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=
+=BD=D1=8B=D0=B9 =D0=B2 =D0=B0=D0=BD=D0=BA=D0=B5=D1=82=D0=B5/=D0=BD=D0=B0 =D0=
+=B1=D1=80=D0=BE=D0=BA=D0=B5=D1=80=D1=81=D0=BA=D0=B8=D0=B9 =D1=81=D1=87=D0=B5=
+=D1=82).</span> </div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td sty=
+le=3D"height: 40px;" /> </tr> </tbody> </table><!--eConditions]--> <!--bSecti=
+onExp]--> <!--bExpenses]--> <!--eExpenses]--> <!--eSectionExp]--> <!--bSectio=
+nExDiv]--> <!--eSectionExDiv]--> <!--bevent_reference]--> <table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;"> <tbody> <tr> <td valign=3D"top" style=3D"width: 45px;"> <!-- Grph (Ima=
+ge) --> <img width=3D"45" style=3D"display: block;width: 100%;" src=3D"data:i=
+mage/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAgMAAABHdAoJAAAAAXNSR0IArs4c6=
+QAAAARnQU1BAACxjwv8YQUAAAAMUExURTpGTnV9g3yEievs7WD2wMUAAAAJcEhZcwAADsIAAA7CAR=
+UoSoAAAADjSURBVCjPrdHLjcIwEAbgP/iQA4cUwIHL3lNCkGhkO6AEuxTOmyKY7YAS3MHOgZWMBB7=
+GjhO8SNx2FEX5NK/EwQVzbAi0oCHsFsBhJSXieQczQxgVPLD6muP47AY+a2hPs5T9GfA6zcgpbSyZ=
+c6sPblsATaTqhAusBKD0+E4vGqZpoRVnuZsQERu5mYzrwX20vyeMqSf0HlseyHBGgPWW04uOoZdR2=
+MZRIQrdYfMeBd07HvK0nwxvp9EJa66QM2nPtf+OHdu9vP/s1zPQMLf6+GKNYf5JuZym+z/BPUFlxV=
+sIPQAI8UFkKgSUZgAAAABJRU5ErkJggg=3D=3D" alt=3D"" /> </td> <td valign=3D"top" =
+style=3D"padding-left: 20px;"> <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%;"> <tbody> <tr> <td style=3D"text-align: left;padding=
+-bottom: 5px;"> <div style=3D"font-weight: normal;font-family: Helvetica Neue=
+, Helvetica, Arial, sans-serif;color:#333f48;font-size:18px;line-height:1.2;"=
+> <strong>=D0=A0=D0=B5=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=81 =D0=BA=D0=BE=D1=80=
 =D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=
 =B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F</strong> </div> </td> </tr> <tr> <td =
 style=3D"text-align: left;"> <div style=3D"font-weight: normal;font-family: H=
@@ -620,92 +620,92 @@ ont-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#333f48;font-s=
 ize:20px;font-weight:bold;"> =D0=A1 =D1=83=D0=B2=D0=B0=D0=B6=D0=B5=D0=BD=D0=
 =B8=D0=B5=D0=BC, =D0=94=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=B8=
 =D0=B9 =D0=A1=D0=B1=D0=B5=D1=80=D0=91=D0=B0=D0=BD=D0=BA=D0=B0 <!--bGetDate]--=
->  <span> <br> <span>08.08.2026</span> </span> </div> </td> </tr> </tbody> </=
-table> </td> </tr> <tr> <td style=3D"padding-top:30px;padding-bottom:30px;pad=
-ding-left:30px;padding-right:30px;"> <table border=3D"0" cellpadding=3D"0" ce=
-llspacing=3D"0" width=3D"100%" style=3D"width: 100%;"> <tbody> <tr> <td style=
-=3D"text-align: left; padding: 0 0 0;"> <div style=3D"margin-right: auto; fon=
-t-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#774011;font-si=
-ze:10px;line-height:1.55;"> =D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=
-=D0=BB=D0=B8 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=89=D0=B5=D0=B5 =D0=BF=D0=
-=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=
-=D1=83 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B0=D0=B4=D1=80=D0=B5=D1=81 =
-=D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BF=D0=
-=BE=D1=87=D1=82=D1=8B =D0=B1=D1=8B=D0=BB =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=
- =D0=B2 =D0=92=D0=B0=D1=88=D0=B5=D0=B9 =D0=B0=D0=BD=D0=BA=D0=B5=D1=82=D0=B5.<=
-br /> <br />=D0=98=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=
-=BE =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=
-=D0=BC =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B8, =D1=83=D0=BA=D0=B0=
-=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D0=B2 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D1=
-=8F=D1=89=D0=B5=D0=BC =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B8,=
- =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B0 =D0=94=D0=B5=D0=BF=D0=BE=D0=
-=B7=D0=B8=D1=82=D0=B0=D1=80=D0=B8=D0=B5=D0=BC =D0=9F=D0=90=D0=9E =D0=A1=D0=B1=
-=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA =D0=BE=D1=82 =D0=98=D0=BD=D1=84=D1=80=D0=
-=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=BD=D0=BE=D0=B9 =D0=BE=
-=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8. =D0=94=D0=B5=D0=
-=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=B8=D0=B9 =D0=9F=D0=90=D0=9E =D0=A1=
-=D0=B1=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA =D0=BD=D0=B5 =D0=BE=D1=82=D0=B2=D0=
-=B5=D1=87=D0=B0=D0=B5=D1=82 =D0=B7=D0=B0 =D0=BF=D0=BE=D0=BB=D0=BD=D0=BE=D1=82=
-=D1=83 =D0=B8 =D0=B4=D0=BE=D1=81=D1=82=D0=BE=D0=B2=D0=B5=D1=80=D0=BD=D0=BE=D1=
-=81=D1=82=D1=8C =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=B8,=
- =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BE=D1=82 =
-=D0=98=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=
-=80=D0=BD=D0=BE=D0=B9 =D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=
-=D0=B8=D0=B8.<br /> <br />=D0=9A=D0=BE=D0=BD=D1=82=D0=B0=D0=BA=D1=82=D0=BD=D0=
-=B0=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F: <a hr=
-ef=3D"tel:+70005556952" style=3D"">900</a> =D0=B8=D0=BB=D0=B8 <a href=3D"tel:=
-+70005555419" style=3D"">+7 (000) 555-65-05</a> (=D0=B4=D0=BB=D1=8F =D0=B7=D0=
-=B2=D0=BE=D0=BD=D0=BA=D0=BE=D0=B2 =D0=B8=D0=B7-=D0=B7=D0=B0 =D1=80=D1=83=D0=
-=B1=D0=B5=D0=B6=D0=B0).<br /> <br />=D0=94=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=
-=82=D0=B0=D1=80=D0=B8=D0=B9 =D0=9F=D0=90=D0=9E =D0=A1=D0=B1=D0=B5=D1=80=D0=B1=
-=D0=B0=D0=BD=D0=BA, =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D0=BB=D1=8C=D0=BD=D0=
-=B0=D1=8F =D0=BB=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =D0=91=D0=B0=D0=BD=
-=D0=BA=D0=B0 =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BE=D1=81=
-=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B1=D0=
-=B0=D0=BD=D0=BA=D0=BE=D0=B2=D1=81=D0=BA=D0=B8=D1=85 =D0=BE=D0=BF=D0=B5=D1=80=
-=D0=B0=D1=86=D0=B8=D0=B9 =E2=84=966446 =D0=BE=D1=82 12.08.2026, =D0=BB=D0=B8=
-=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D1=84=D0=B5=D1=81=D1=
-=81=D0=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D1=83=D1=87=
-=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0 =D1=80=D1=8B=D0=BD=D0=BA=D0=B0 =D1=
-=86=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=B3 =D0=BD=D0=B0=
- =D0=BE=D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=
-=B5 =D0=B4=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=BD=D0=BE=D0=B9 =
-=D0=B4=D0=B5=D1=8F=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =E2=
-=84=96797-98298-760411 =D0=BE=D1=82 17.08.2026.<br /> </div> </td> </tr> </tb=
-ody> </table> </td> </tr> <tr> <td style=3D"padding-top:0px;padding-bottom:45=
+>  <span> <br> <span>06None09None2026</span> </span> </div> </td> </tr> </tbo=
+dy> </table> </td> </tr> <tr> <td style=3D"padding-top:30px;padding-bottom:30=
 px;padding-left:30px;padding-right:30px;"> <table border=3D"0" cellpadding=3D=
-"0" cellspacing=3D"0" style=3D"margin-right: auto;" align=3D"left"> <tbody> <=
-tr> <td> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
-gin-right: auto;table-layout: fixed;" align=3D"left"> <tbody> <tr> <td align=
-=3D"center" style=3D"width: 34px; height: 34px; padding-right: 18px;"> <a sty=
-le=3D"text-decoration: none;" href=3D"https://vk.example/link/9810ab029d71012=
-3"> <img width=3D"34" style=3D"display: block; width: 34px; max-width: 34px;"=
- src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiAgMAAABHKeNRAAA=
-AAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURQMDA1lZWZeXl/r6+lrNaxUAAAAJcEhZ=
-cwAACxAAAAsQAa0jvXUAAADDSURBVCjPXdCxEYJAEAXQfxIQEJyxBtABdsAF9qMdSAl0YAt2gCVQA=
-oEFXLCB43C37i3MnGP2Bub+/l0w84ALsxe9ADOqHIBj0luAXdKUhJvIqWqPqEDlsawqPGiV8ZhX4Y=
-Fp0xVP4DCITujbuaUyooGryZIN2AN2sVTryDJY6jSrYEujJhi+f7jXpJF5q9GJ0jeHWjRLSo+SgxR=
-vZJph6oJMk/ctVVEapFbOnKVVbprb543ylj+b52vE9Nv+XU0vyf4Lg8Fz+Xad4/wAAAAASUVORK5C=
-YII=3D" alt=3D"Vk" /> </a> </td> <td align=3D"center" style=3D"width: 34px; h=
-eight: 34px; padding-right: 18px;"> <a style=3D"text-decoration: none;" href=
-=3D"https://t.example/link/cbe583f3e3f250ab"> <img width=3D"34" style=3D"disp=
-lay: block; width: 34px; max-width: 34px;" src=3D"data:image/png;base64,iVBOR=
-w0KGgoAAAANSUhEUgAAACIAAAAiAgMAAABHKeNRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQ=
-UAAAAMUExURQMDA1tbW5qamvn5+aeH5lUAAAAJcEhZcwAACxAAAAsQAa0jvXUAAADISURBVCjPTZC=
-xEYJAEEX/wgwGJKQOAYRm2oGXWY50cJRgCXagFQglUAKB5hcQ4Ki37t6IEN2b2b3//34w8wlHZid0=
-B6gJZADkSqMAIqVOCVbIBCocfACkDmENWewwKCQDOfRQuQFX6Nf85VChlRlfeuxQA423PUoYcXqIf=
-KYzPnCrClt+FhN1lmsluhH/zNeriZKCWV+DeK+UiXJkWaKV4kbefiBukmBMhSpNdaY3JFVIugFN6R=
-EvL5qvXFw+t+H/DS1aC02y+wJ9aXYqDrrlYQAAAABJRU5ErkJggg=3D=3D" alt=3D"Tg" /> </a=
-> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> <tr=
-> <td style=3D"padding-bottom:45px;padding-left:30px;padding-right:30px;"> <t=
-able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D=
-"width: 100%;"> <tbody> <tr> <td style=3D"text-align: left; padding: 0 0 0;">=
- <div style=3D"margin-right: auto; font-family: Helvetica Neue, Helvetica, Ar=
-ial, sans-serif; color:#774011;font-size:12px;line-height:1.45;"> <a href=3D"=
-https://sberbank.example/link/7bbc7a5d3e088e29" style=3D"">sberbank.ru</a> <b=
-r /> </div> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td>=
- </tr> </tbody> </table> <!--/record--> </td> </tr> </tbody> </table> <!--/al=
-lrecords--> </body> </html>
+"0" cellspacing=3D"0" width=3D"100%" style=3D"width: 100%;"> <tbody> <tr> <td=
+ style=3D"text-align: left; padding: 0 0 0;"> <div style=3D"margin-right: aut=
+o; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#774011;f=
+ont-size:10px;line-height:1.55;"> =D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=
+=D0=B8=D0=BB=D0=B8 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=89=D0=B5=D0=B5 =D0=
+=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=
+=D0=BA=D1=83 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B0=D0=B4=D1=80=D0=B5=D1=
+=81 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BF=
+=D0=BE=D1=87=D1=82=D1=8B =D0=B1=D1=8B=D0=BB =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=
+=BD =D0=B2 =D0=92=D0=B0=D1=88=D0=B5=D0=B9 =D0=B0=D0=BD=D0=BA=D0=B5=D1=82=D0=
+=B5.<br /> <br />=D0=98=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F=
+ =D0=BE =D0=BA=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=B8=D0=B2=D0=BD=D0=
+=BE=D0=BC =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B8, =D1=83=D0=BA=D0=
+=B0=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D0=B2 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=
+=D1=8F=D1=89=D0=B5=D0=BC =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=
+=B8, =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B0 =D0=94=D0=B5=D0=BF=D0=
+=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=B8=D0=B5=D0=BC =D0=9F=D0=90=D0=9E =D0=A1=
+=D0=B1=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA =D0=BE=D1=82 =D0=98=D0=BD=D1=84=D1=
+=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=BD=D0=BE=D0=B9 =
+=D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8. =D0=94=D0=
+=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=B8=D0=B9 =D0=9F=D0=90=D0=9E =
+=D0=A1=D0=B1=D0=B5=D1=80=D0=B1=D0=B0=D0=BD=D0=BA =D0=BD=D0=B5 =D0=BE=D1=82=D0=
+=B2=D0=B5=D1=87=D0=B0=D0=B5=D1=82 =D0=B7=D0=B0 =D0=BF=D0=BE=D0=BB=D0=BD=D0=BE=
+=D1=82=D1=83 =D0=B8 =D0=B4=D0=BE=D1=81=D1=82=D0=BE=D0=B2=D0=B5=D1=80=D0=BD=D0=
+=BE=D1=81=D1=82=D1=8C =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=
+=D0=B8, =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BE=
+=D1=82 =D0=98=D0=BD=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=
+=83=D1=80=D0=BD=D0=BE=D0=B9 =D0=BE=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=
+=D1=86=D0=B8=D0=B8.<br /> <br />=D0=9A=D0=BE=D0=BD=D1=82=D0=B0=D0=BA=D1=82=D0=
+=BD=D0=B0=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F:=
+ <a href=3D"tel:+70005556952" style=3D"">900</a> =D0=B8=D0=BB=D0=B8 <a href=
+=3D"tel:+70005555419" style=3D"">+7 (000) 555-65-05</a> (=D0=B4=D0=BB=D1=8F =
+=D0=B7=D0=B2=D0=BE=D0=BD=D0=BA=D0=BE=D0=B2 =D0=B8=D0=B7-=D0=B7=D0=B0 =D1=80=
+=D1=83=D0=B1=D0=B5=D0=B6=D0=B0).<br /> <br />=D0=94=D0=B5=D0=BF=D0=BE=D0=B7=
+=D0=B8=D1=82=D0=B0=D1=80=D0=B8=D0=B9 =D0=9F=D0=90=D0=9E =D0=A1=D0=B1=D0=B5=D1=
+=80=D0=B1=D0=B0=D0=BD=D0=BA, =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D0=BB=D1=8C=
+=D0=BD=D0=B0=D1=8F =D0=BB=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =D0=91=D0=
+=B0=D0=BD=D0=BA=D0=B0 =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=
+=BE=D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =
+=D0=B1=D0=B0=D0=BD=D0=BA=D0=BE=D0=B2=D1=81=D0=BA=D0=B8=D1=85 =D0=BE=D0=BF=D0=
+=B5=D1=80=D0=B0=D1=86=D0=B8=D0=B9 =E2=84=966446 =D0=BE=D1=82 10None09None2026=
+, =D0=BB=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D1=84=
+=D0=B5=D1=81=D1=81=D0=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=
+=BE =D1=83=D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=B8=D0=BA=D0=B0 =D1=80=D1=8B=D0=BD=
+=D0=BA=D0=B0 =D1=86=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B1=D1=83=D0=BC=D0=B0=D0=
+=B3 =D0=BD=D0=B0 =D0=BE=D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BB=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D0=B4=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=B0=D1=80=D0=
+=BD=D0=BE=D0=B9 =D0=B4=D0=B5=D1=8F=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B8 =E2=84=96797-98298-760411 =D0=BE=D1=82 14None09None2026<br /> </=
+div> </td> </tr> </tbody> </table> </td> </tr> <tr> <td style=3D"padding-top:=
+0px;padding-bottom:45px;padding-left:30px;padding-right:30px;"> <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-right: auto;" alig=
+n=3D"left"> <tbody> <tr> <td> <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin-right: auto;table-layout: fixed;" align=3D"left"> <t=
+body> <tr> <td align=3D"center" style=3D"width: 34px; height: 34px; padding-r=
+ight: 18px;"> <a style=3D"text-decoration: none;" href=3D"https://vk.example/=
+link/9810ab029d710123"> <img width=3D"34" style=3D"display: block; width: 34p=
+x; max-width: 34px;" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACI=
+AAAAiAgMAAABHKeNRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURQMDA1lZWZeX=
+l/r6+lrNaxUAAAAJcEhZcwAACxAAAAsQAa0jvXUAAADDSURBVCjPXdCxEYJAEAXQfxIQEJyxBtABd=
+sAF9qMdSAl0YAt2gCVQAoEFXLCB43C37i3MnGP2Bub+/l0w84ALsxe9ADOqHIBj0luAXdKUhJvIqW=
+qPqEDlsawqPGiV8ZhX4YFp0xVP4DCITujbuaUyooGryZIN2AN2sVTryDJY6jSrYEujJhi+f7jXpJF=
+5q9GJ0jeHWjRLSo+SgxRvZJph6oJMk/ctVVEapFbOnKVVbprb543ylj+b52vE9Nv+XU0vyf4Lg8Fz=
++Xad4/wAAAAASUVORK5CYII=3D" alt=3D"Vk" /> </a> </td> <td align=3D"center" sty=
+le=3D"width: 34px; height: 34px; padding-right: 18px;"> <a style=3D"text-deco=
+ration: none;" href=3D"https://t.example/link/cbe583f3e3f250ab"> <img width=
+=3D"34" style=3D"display: block; width: 34px; max-width: 34px;" src=3D"data:i=
+mage/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiAgMAAABHKeNRAAAAAXNSR0IArs4c6=
+QAAAARnQU1BAACxjwv8YQUAAAAMUExURQMDA1tbW5qamvn5+aeH5lUAAAAJcEhZcwAACxAAAAsQAa=
+0jvXUAAADISURBVCjPTZCxEYJAEEX/wgwGJKQOAYRm2oGXWY50cJRgCXagFQglUAKB5hcQ4Ki37t6=
+IEN2b2b3//34w8wlHZid0B6gJZADkSqMAIqVOCVbIBCocfACkDmENWewwKCQDOfRQuQFX6Nf85VCh=
+lRlfeuxQA423PUoYcXqIfKYzPnCrClt+FhN1lmsluhH/zNeriZKCWV+DeK+UiXJkWaKV4kbefiBuk=
+mBMhSpNdaY3JFVIugFN6REvL5qvXFw+t+H/DS1aC02y+wJ9aXYqDrrlYQAAAABJRU5ErkJggg=3D=
+=3D" alt=3D"Tg" /> </a> </td> </tr> </tbody> </table> </td> </tr> </tbody> </=
+table> </td> </tr> <tr> <td style=3D"padding-bottom:45px;padding-left:30px;pa=
+dding-right:30px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"width: 100%;"> <tbody> <tr> <td style=3D"text-align: l=
+eft; padding: 0 0 0;"> <div style=3D"margin-right: auto; font-family: Helveti=
+ca Neue, Helvetica, Arial, sans-serif; color:#774011;font-size:12px;line-heig=
+ht:1.45;"> <a href=3D"https://sberbank.example/link/7bbc7a5d3e088e29" style=
+=3D"">sberbank.ru</a> <br /> </div> </td> </tr> </tbody> </table> </td> </tr>=
+ </tbody> </table> </td> </tr> </tbody> </table> <!--/record--> </td> </tr> <=
+/tbody> </table> <!--/allrecords--> </body> </html>
 
 ------=_Part_661012_831799102.1784777809549--
 

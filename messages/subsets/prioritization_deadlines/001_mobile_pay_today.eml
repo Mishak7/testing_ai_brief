@@ -1,7 +1,7 @@
 From: =?utf-8?b?0JzQvtCx0LjQu9GM0L3QsNGPINGB0LLRj9C30Yw=?=
  <billing@mobile-notice.example.test>
 To: {{TO}}
-Date: Thu, 30 Jul 2026 08:15:00 +0300
+Date: Wed, 26 Aug 2026 08:00:00 +0300
 Message-ID: <178532427188.306.4789277171654574936@mobile-notice.example.test>
 Subject: =?utf-8?b?0J7Qv9C70LDRgtC40YLRjCDRgdC10LPQvtC00L3Rjzog0LzQvtCx0Lg=?=
  =?utf-8?b?0LvRjNC90LDRjyDRgdCy0Y/Qt9GM?=
@@ -10,19 +10,20 @@ Content-Type: multipart/alternative;
  boundary="===============7424800117370177574=="
 
 --===============7424800117370177574==
+MIME-Version: 1.0
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: base64
 
-0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshDQoNCtCf0L7Qv9C+0LvQvdC4
-0YLQtSDQsdCw0LvQsNC90YEg0YHQtdCz0L7QtNC90Y8NCg0K0JTQu9GPINC/0YDQvtC00LvQtdC9
-0LjRjyDQv9Cw0LrQtdGC0LAg0YHQstGP0LfQuCDQstC90LXRgdC40YLQtSA2OTAg4oK9INC00L4g
-MjM6NTkg0YHQtdCz0L7QtNC90Y8sIDMwINC40Y7Qu9GPIDIwMjYg0LPQvtC00LAuDQoNCtCh0YDQ
-vtC6OiAzMC4wNy4yMDI2IDIzOjU5DQo=
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshCgrQn9C+0L/QvtC70L3QuNGC
+0LUg0LHQsNC70LDQvdGBINGB0LXQs9C+0LTQvdGPCgrQlNC70Y8g0L/RgNC+0LTQu9C10L3QuNGP
+INC/0LDQutC10YLQsCDRgdCy0Y/Qt9C4INCy0L3QtdGB0LjRgtC1IDY5MCDigr0g0LTQviAyMzo1
+OSDRgdC10LPQvtC00L3RjywgMjYg0LDQstCz0YPRgdGC0LAgMjAyNiDQs9C+0LTQsC4KCtCh0YDQ
+vtC6OiAyN05vbmUwOE5vbmUyMDI2IDIzOjU5Cg==
 
 --===============7424800117370177574==
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!doctype html>
 <html lang=3D"ru">
@@ -54,11 +55,11 @@ ius:12px;overflow:hidden;
               <p style=3D"margin:0;">=D0=94=D0=BB=D1=8F =D0=BF=D1=80=D0=BE=D0=
 =B4=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D1=81=
 =D0=B2=D1=8F=D0=B7=D0=B8 =D0=B2=D0=BD=D0=B5=D1=81=D0=B8=D1=82=D0=B5 690 =E2=
-=82=BD =D0=B4=D0=BE 23:59 =D1=81=D0=B5=D0=B3=D0=BE=D0=B4=D0=BD=D1=8F, 30 =D0=
-=B8=D1=8E=D0=BB=D1=8F 2026 =D0=B3=D0=BE=D0=B4=D0=B0.</p>
+=82=BD =D0=B4=D0=BE 23:59 =D1=81=D0=B5=D0=B3=D0=BE=D0=B4=D0=BD=D1=8F, 26 =D0=
+=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82=D0=B0 2026 =D0=B3=D0=BE=D0=B4=D0=B0.</p>
               <div style=3D"margin-top:18px;padding:12px 14px;border-left:4px=
- solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 30.07.20=
-26 23:59</div>
+ solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 27None08=
+None2026 23:59</div>
             </td>
           </tr>
         </table>

@@ -1,7 +1,7 @@
 From: =?utf-8?b?0JTQvtC80LDRiNC90Y/RjyDRgdC10YLRjA==?=
  <billing@home-network.example.test>
 To: {{TO}}
-Date: Sat, 01 Aug 2026 09:10:00 +0300
+Date: Wed, 26 Aug 2026 08:11:00 +0300
 Message-ID: <178532427189.306.11840291513006372824@home-network.example.test>
 Subject: =?utf-8?b?0KHRh9GR0YIg0LfQsCDQuNC90YLQtdGA0L3QtdGCINC90YPQttC90L4g?=
  =?utf-8?b?0L7Qv9C70LDRgtC40YLRjCDQtNC+INC30LDQstGC0YDQsA==?=
@@ -10,19 +10,20 @@ Content-Type: multipart/alternative;
  boundary="===============1518745433585330723=="
 
 --===============1518745433585330723==
+MIME-Version: 1.0
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: base64
 
-0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshDQoNCtCh0YDQvtC6INC+0L/Q
-u9Cw0YLRiyDigJQg0LfQsNCy0YLRgNCwDQoNCtCh0YfRkdGCINC90LAgODkwIOKCvSDQt9CwINCw
-0LLQs9GD0YHRgiDQvdC10L7QsdGF0L7QtNC40LzQviDQvtC/0LvQsNGC0LjRgtGMINC00L4gMjA6
-MDAgMiDQsNCy0LPRg9GB0YLQsCAyMDI2INCz0L7QtNCwLg0KDQrQodGA0L7QujogMDIuMDguMjAy
-NiAyMDowMA0K
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshCgrQodGA0L7QuiDQvtC/0LvQ
+sNGC0Ysg4oCUINC30LDQstGC0YDQsAoK0KHRh9GR0YIg0L3QsCA4OTAg4oK9INC30LAg0LDQstCz
+0YPRgdGCINC90LXQvtCx0YXQvtC00LjQvNC+INC+0L/Qu9Cw0YLQuNGC0Ywg0LTQviAyMDowMCAy
+NyDQsNCy0LPRg9GB0YLQsCAyMDI2INCz0L7QtNCwLgoK0KHRgNC+0Lo6IDI4Tm9uZTA4Tm9uZTIw
+MjYgMjA6MDAK
 
 --===============1518745433585330723==
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!doctype html>
 <html lang=3D"ru">
@@ -54,11 +55,11 @@ ius:12px;overflow:hidden;
               <p style=3D"margin:0;">=D0=A1=D1=87=D1=91=D1=82 =D0=BD=D0=B0 89=
 0 =E2=82=BD =D0=B7=D0=B0 =D0=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82 =D0=BD=D0=B5=D0=
 =BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =D0=BE=D0=BF=D0=BB=D0=B0=D1=82=
-=D0=B8=D1=82=D1=8C =D0=B4=D0=BE 20:00 2 =D0=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82=
+=D0=B8=D1=82=D1=8C =D0=B4=D0=BE 20:00 27 =D0=B0=D0=B2=D0=B3=D1=83=D1=81=D1=82=
 =D0=B0 2026 =D0=B3=D0=BE=D0=B4=D0=B0.</p>
               <div style=3D"margin-top:18px;padding:12px 14px;border-left:4px=
- solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 02.08.20=
-26 20:00</div>
+ solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 28None08=
+None2026 20:00</div>
             </td>
           </tr>
         </table>

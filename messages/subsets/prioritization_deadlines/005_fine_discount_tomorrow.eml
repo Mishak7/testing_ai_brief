@@ -1,7 +1,7 @@
 From: =?utf-8?b?0JPQvtGA0L7QtNGB0LrQuNC1INGD0LLQtdC00L7QvNC70LXQvdC40Y8=?=
  <fines@city-notice.example.test>
 To: {{TO}}
-Date: Sun, 09 Aug 2026 08:50:00 +0300
+Date: Wed, 26 Aug 2026 08:44:00 +0300
 Message-ID: <178532427190.306.5254931942458771874@city-notice.example.test>
 Subject: =?utf-8?b?0JvRjNCz0L7RgtC90YvQuSDRgdGA0L7QuiDQvtC/0LvQsNGC0Ysg0Lc=?=
  =?utf-8?b?0LDQutCw0L3Rh9C40LLQsNC10YLRgdGPINC30LDQstGC0YDQsA==?=
@@ -10,20 +10,21 @@ Content-Type: multipart/alternative;
  boundary="===============8217037962962487671=="
 
 --===============8217037962962487671==
+MIME-Version: 1.0
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: base64
 
-0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshDQoNCtCh0LrQuNC00LrQsCDQ
-tNC10LnRgdGC0LLRg9C10YIg0LTQviDQt9Cw0LLRgtGA0LANCg0K0JvRjNCz0L7RgtC90LDRjyDR
-gdGD0LzQvNCwIDc1MCDigr0g0LTQvtGB0YLRg9C/0L3QsCDQtNC+IDIzOjU5IDEwINCw0LLQs9GD
-0YHRgtCwIDIwMjYg0LPQvtC00LAuINCf0L7RgdC70LUg0YHRgNC+0LrQsCDQsdGD0LTQtdGCINC9
-0LDRh9C40YHQu9C10L3QsCDQv9C+0LvQvdCw0Y8g0YHRg9C80LzQsC4NCg0K0KHRgNC+0Lo6IDEw
-LjA4LjIwMjYgMjM6NTkNCg==
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshCgrQodC60LjQtNC60LAg0LTQ
+tdC50YHRgtCy0YPQtdGCINC00L4g0LfQsNCy0YLRgNCwCgrQm9GM0LPQvtGC0L3QsNGPINGB0YPQ
+vNC80LAgNzUwIOKCvSDQtNC+0YHRgtGD0L/QvdCwINC00L4gMjM6NTkgMjcg0LDQstCz0YPRgdGC
+0LAgMjAyNiDQs9C+0LTQsC4g0J/QvtGB0LvQtSDRgdGA0L7QutCwINCx0YPQtNC10YIg0L3QsNGH
+0LjRgdC70LXQvdCwINC/0L7Qu9C90LDRjyDRgdGD0LzQvNCwLgoK0KHRgNC+0Lo6IDI4Tm9uZTA4
+Tm9uZTIwMjYgMjM6NTkK
 
 --===============8217037962962487671==
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!doctype html>
 <html lang=3D"ru">
@@ -54,14 +55,14 @@ ius:12px;overflow:hidden;
 !</p>
               <p style=3D"margin:0;">=D0=9B=D1=8C=D0=B3=D0=BE=D1=82=D0=BD=D0=
 =B0=D1=8F =D1=81=D1=83=D0=BC=D0=BC=D0=B0 750 =E2=82=BD =D0=B4=D0=BE=D1=81=D1=
-=82=D1=83=D0=BF=D0=BD=D0=B0 =D0=B4=D0=BE 23:59 10 =D0=B0=D0=B2=D0=B3=D1=83=D1=
+=82=D1=83=D0=BF=D0=BD=D0=B0 =D0=B4=D0=BE 23:59 27 =D0=B0=D0=B2=D0=B3=D1=83=D1=
 =81=D1=82=D0=B0 2026 =D0=B3=D0=BE=D0=B4=D0=B0. =D0=9F=D0=BE=D1=81=D0=BB=D0=B5=
  =D1=81=D1=80=D0=BE=D0=BA=D0=B0 =D0=B1=D1=83=D0=B4=D0=B5=D1=82 =D0=BD=D0=B0=
 =D1=87=D0=B8=D1=81=D0=BB=D0=B5=D0=BD=D0=B0 =D0=BF=D0=BE=D0=BB=D0=BD=D0=B0=D1=
 =8F =D1=81=D1=83=D0=BC=D0=BC=D0=B0.</p>
               <div style=3D"margin-top:18px;padding:12px 14px;border-left:4px=
- solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 10.08.20=
-26 23:59</div>
+ solid #a61b1b;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 28None08=
+None2026 23:59</div>
             </td>
           </tr>
         </table>

@@ -1,6 +1,6 @@
 From: AI Cloud <subscriptions@ai-cloud.example.test>
 To: {{TO}}
-Date: Tue, 04 Aug 2026 08:20:00 +0300
+Date: Wed, 26 Aug 2026 09:50:00 +0300
 Message-ID: <178532427191.306.513332462628645440@ai-cloud.example.test>
 Subject: =?utf-8?b?0J/QvtC00L/QuNGB0LrQsCDQvtGC0LrQu9GO0YfQuNGC0YHRjyDRh9C1?=
  =?utf-8?b?0YDQtdC3IDMg0LTQvdGP?=
@@ -9,20 +9,21 @@ Content-Type: multipart/alternative;
  boundary="===============8845162128929690727=="
 
 --===============8845162128929690727==
+MIME-Version: 1.0
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: base64
 
-0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshDQoNCtCf0L7QtNC/0LjRgdC6
-0LAg0LfQsNCy0LXRgNGI0LjRgtGB0Y8gNyDQsNCy0LPRg9GB0YLQsA0KDQrQotCw0YDQuNGEIERl
-dmVsb3BlciDQvtGC0LrQu9GO0YfQuNGC0YHRjyA3INCw0LLQs9GD0YHRgtCwIDIwMjYg0LPQvtC0
-0LAuINCf0L7RgdC70LUg0Y3RgtC+0Lkg0LTQsNGC0YsgQVBJLdC60LvRjtGH0Lgg0L/QtdGA0LXQ
-udC00YPRgiDQsiDRgNC10LbQuNC8INC+0LPRgNCw0L3QuNGH0LXQvdC90L7Qs9C+INC00L7RgdGC
-0YPQv9CwLg0KDQrQodGA0L7QujogMDcuMDguMjAyNiAyMzo1OQ0K
+0JfQtNGA0LDQstGB0YLQstGD0LnRgtC1LCDQnNC40YXQsNC40LshCgrQn9C+0LTQv9C40YHQutCw
+INC30LDQstC10YDRiNC40YLRgdGPIDcg0LDQstCz0YPRgdGC0LAKCtCi0LDRgNC40YQgRGV2ZWxv
+cGVyINC+0YLQutC70Y7Rh9C40YLRgdGPIDI5INCw0LLQs9GD0YHRgtCwIDIwMjYg0LPQvtC00LAu
+INCf0L7RgdC70LUg0Y3RgtC+0Lkg0LTQsNGC0YsgQVBJLdC60LvRjtGH0Lgg0L/QtdGA0LXQudC0
+0YPRgiDQsiDRgNC10LbQuNC8INC+0LPRgNCw0L3QuNGH0LXQvdC90L7Qs9C+INC00L7RgdGC0YPQ
+v9CwLgoK0KHRgNC+0Lo6IDMwTm9uZTA4Tm9uZTIwMjYgMjM6NTkK
 
 --===============8845162128929690727==
+MIME-Version: 1.0
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 <!doctype html>
 <html lang=3D"ru">
@@ -53,7 +54,7 @@ ius:12px;overflow:hidden;
 =81=D1=82=D0=B2=D1=83=D0=B9=D1=82=D0=B5, =D0=9C=D0=B8=D1=85=D0=B0=D0=B8=D0=BB=
 !</p>
               <p style=3D"margin:0;">=D0=A2=D0=B0=D1=80=D0=B8=D1=84 Developer=
- =D0=BE=D1=82=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=81=D1=8F 7 =D0=B0=D0=B2=
+ =D0=BE=D1=82=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=81=D1=8F 29 =D0=B0=D0=B2=
 =D0=B3=D1=83=D1=81=D1=82=D0=B0 2026 =D0=B3=D0=BE=D0=B4=D0=B0. =D0=9F=D0=BE=D1=
 =81=D0=BB=D0=B5 =D1=8D=D1=82=D0=BE=D0=B9 =D0=B4=D0=B0=D1=82=D1=8B API-=D0=BA=
 =D0=BB=D1=8E=D1=87=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D0=B9=D0=B4=D1=83=D1=82 =D0=
@@ -61,8 +62,8 @@ ius:12px;overflow:hidden;
 =D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=
 =B0.</p>
               <div style=3D"margin-top:18px;padding:12px 14px;border-left:4px=
- solid #8a6500;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 07.08.20=
-26 23:59</div>
+ solid #8a6500;background:#f7f8fa;"><b>=D0=A1=D1=80=D0=BE=D0=BA:</b> 30None08=
+None2026 23:59</div>
             </td>
           </tr>
         </table>
